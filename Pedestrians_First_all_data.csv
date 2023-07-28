@@ -1,0 +1,963 @@
+ID Code,Agglomeration name,People Near Transit,People Near Car-Free Places,People Near Services (Healthcare and Schools both),Weighted Population Density (people / km2),Mean Block Density (blocks / km2),Total population of urban agglomeration,Reliability of indicators,Geographical Region,Subregion
+12080,"Guangzhou, Guangdong [CHN]",Not available,11%,10%,"24,329",15,"40,589,878",Very Unreliable,Asia,Eastern Asia
+11862,Jakarta [IDN],2%,6%,34%,"16,048",62,"36,312,539",Unreliable,Asia,South-Eastern Asia
+12964,Tokyo [JPN],Not available,48%,77%,"9,715",102,"33,028,731",Somewhat Reliable,Asia,Eastern Asia
+6955,Delhi [IND],18%,18%,17%,"25,787",60,"26,658,714",Unreliable,Asia,Southern Asia
+12400,Shanghai [CHN],Not available,11%,15%,"26,924",11,"24,472,119",Very Unreliable,Asia,Eastern Asia
+9872,Dhaka [BGD],Not available,10%,27%,"45,555",25,"23,942,350",Unreliable,Asia,Southern Asia
+6845,Mumbai (Bombay) [IND],Not available,16%,32%,"55,679",33,"21,755,882",Unreliable,Asia,Southern Asia
+12829,Manila [PHL],Not available,17%,64%,"43,449",83,"21,691,141",Unreliable,Asia,South-Eastern Asia
+9691,Kolkata (Calcutta) [IND],Not available,8%,10%,"39,293",36,"21,620,289",Unreliable,Asia,Southern Asia
+12389,Seoul [KOR],Not available,33%,61%,"18,209",58,"21,600,841",Somewhat Reliable,Asia,Eastern Asia
+3902,Al-Qahirah (Cairo) [EGY],Not available,10%,12%,"43,939",79,"19,734,086",Unreliable,Africa,Northern Africa
+154,Ciudad de Mexico (Mexico City) [MEX],Not available,18%,35%,"20,024",70,"19,559,564",Somewhat Reliable,Latin America and the Caribbean,Central America
+1303,Sao Paulo [BRA],9%,31%,47%,"19,216",61,"19,114,337",Somewhat Reliable,Latin America and the Caribbean,South America
+10687,Beijing [CHN],Not available,20%,15%,"21,492",16,"17,982,668",Very Unreliable,Asia,Eastern Asia
+945,New York-Newark [USA],48%,25%,53%,"13,273",42,"15,950,674",Somewhat Reliable,Northern America,North America
+12858,Kinki M.M.A. (Osaka) [JPN],Not available,41%,75%,"7,791",95,"15,692,797",Somewhat Reliable,Asia,Eastern Asia
+10715,Krung Thep (Bangkok) [THA],Not available,11%,10%,"12,209",39,"14,730,839",Unreliable,Asia,South-Eastern Asia
+14,Los Angeles-Long Beach-Santa Ana [USA],10%,14%,22%,"5,648",44,"14,281,720",Somewhat Reliable,Northern America,North America
+3562,Istanbul [TUR],Not available,21%,74%,"23,099",93,"14,111,242",Somewhat Reliable,Asia,Western Asia
+3675,Moskva (Moscow) [RUS],Not available,75%,77%,"10,145",75,"14,077,364",Somewhat Reliable,Europe,Eastern Europe
+1105,Buenos Aires [ARG],71%,16%,65%,"10,592",70,"13,906,506",Somewhat Reliable,Latin America and the Caribbean,South America
+6169,Karachi [PAK],Not available,12%,61%,"38,473",109,"13,150,694",Unreliable,Asia,Southern Asia
+5737,Tehran [IRN],Not available,29%,51%,"15,918",54,"12,515,045",Unreliable,Asia,Southern Asia
+2125,Lagos [NGA],Not available,1%,2%,"27,482",34,"11,575,043",Unreliable,Africa,Western Africa
+11800,Thanh Pho Ho Chi Minh (Ho Chi Minh City) [VNM],Not available,9%,41%,"26,241",40,"11,488,340",Unreliable,Asia,South-Eastern Asia
+8050,Bangalore [IND],Not available,15%,61%,"50,775",80,"10,631,615",Unreliable,Asia,Southern Asia
+12430,Shantou [CHN],Not available,1%,2%,"13,268",10,"10,445,183",Very Unreliable,Asia,Eastern Asia
+6473,Lahore [PAK],Not available,10%,25%,"21,197",71,"10,114,718",Unreliable,Asia,Southern Asia
+8675,Chennai (Madras) [IND],Not available,7%,49%,"26,955",51,"9,992,602",Unreliable,Asia,Southern Asia
+1361,Rio de Janeiro [BRA],Not available,23%,39%,"18,655",54,"9,798,105",Somewhat Reliable,Latin America and the Caribbean,South America
+2046,Paris [FRA],76%,61%,85%,"10,380",60,"9,711,652",Somewhat Reliable,Europe,Western Europe
+1912,London [GBR],Not available,59%,80%,"7,199",48,"9,609,627",Somewhat Reliable,Europe,Northern Europe
+10297,Chengdu [CHN],Not available,8%,8%,"24,146",14,"9,318,649",Very Unreliable,Asia,Eastern Asia
+528,Lima [PER],Not available,55%,81%,"25,265",111,"9,265,580",Somewhat Reliable,Latin America and the Caribbean,South America
+12696,Xinbei [TWN],Not available,43%,60%,"24,795",55,"8,873,427",Somewhat Reliable,Asia,Eastern Asia
+12298,"Suzhou, Jiangsu [CHN]",Not available,8%,8%,"16,737",9,"8,625,179",Very Unreliable,Asia,Eastern Asia
+621,Bogota [COL],85%,60%,78%,"32,721",115,"8,608,815",Somewhat Reliable,Latin America and the Caribbean,South America
+12610,Surabaya [IDN],Not available,4%,35%,"11,945",49,"8,352,590",Unreliable,Asia,South-Eastern Asia
+12044,Bandung [IDN],Not available,6%,21%,"20,932",51,"8,181,546",Unreliable,Asia,South-Eastern Asia
+8005,Hyderabad [IND],Not available,9%,34%,"22,597",98,"8,135,155",Unreliable,Asia,Southern Asia
+12914,Chukyo M.M.A. (Nagoya) [JPN],Not available,30%,55%,"4,417",91,"7,667,227",Somewhat Reliable,Asia,Eastern Asia
+12386,Hangzhou [CHN],Not available,13%,18%,"21,312",15,"7,527,414",Very Unreliable,Asia,Eastern Asia
+11549,Wuhan [CHN],Not available,11%,12%,"31,691",15,"7,344,345",Very Unreliable,Asia,Eastern Asia
+11498,Singapore [SGP]; Johor Bahru [MYS],Not available,44%,39%,"29,310",58,"6,920,918",Unreliable,Asia,South-Eastern Asia
+3050,Luanda [AGO],Not available,6%,13%,"19,184",69,"6,786,991",Unreliable,Africa,Middle Africa
+634,Chicago [USA],26%,22%,36%,"4,423",53,"6,779,775",Somewhat Reliable,Northern America,North America
+6651,Ahmadabad [IND],Not available,3%,15%,"42,865",29,"6,678,959",Unreliable,Asia,Southern Asia
+7041,Pune (Poona) [IND],Not available,10%,22%,"32,665",34,"6,656,509",Unreliable,Asia,Southern Asia
+10922,Tianjin [CHN],Not available,7%,7%,"36,791",13,"6,642,179",Very Unreliable,Asia,Eastern Asia
+3673,Johannesburg [ZAF],Not available,8%,13%,"14,040",34,"6,516,134",Unreliable,Africa,Southern Africa
+11139,Kuala Lumpur [MYS],Not available,14%,18%,"8,562",85,"6,339,649",Unreliable,Asia,South-Eastern Asia
+931,Santiago [CHL],Not available,32%,79%,"17,184",92,"6,336,005",Somewhat Reliable,Latin America and the Caribbean,South America
+9938,Comilla [BGD]; Sonamura [IND],Not available,2%,2%,"6,492",6,"6,167,652",Unreliable,Asia,Southern Asia
+875,Toronto [CAN],40%,55%,62%,"6,662",39,"6,036,146",Somewhat Reliable,Northern America,North America
+4335,Al-Khartum (Khartoum) [SDN],Not available,2%,29%,"16,244",132,"5,824,721",Unreliable,Africa,Northern Africa
+12274,Hong Kong [CHN],Not available,85%,67%,"83,799",51,"5,707,660",Somewhat Reliable,Asia,Eastern Asia
+10248,Yangon [MMR],Not available,8%,62%,"24,584",63,"5,686,185",Unreliable,Asia,South-Eastern Asia
+5698,Ar-Riyadh (Riyadh) [SAU],Not available,6%,9%,"8,181",60,"5,673,783",Somewhat Reliable,Asia,Western Asia
+3209,Kinshasa [COD]; Brazzaville [COG],Not available,8%,60%,"44,426",81,"5,622,520",Unreliable,Africa,Middle Africa
+3751,Al-Iskandariyah (Alexandria) [EGY],Not available,10%,23%,"31,344",71,"5,532,976",Unreliable,Africa,Northern Africa
+11334,Shenyang [CHN],Not available,9%,10%,"29,817",12,"5,489,523",Very Unreliable,Asia,Eastern Asia
+6728,Surat [IND],Not available,3%,13%,"140,887",17,"5,474,488",Unreliable,Asia,Southern Asia
+556,Miami [USA],0%,12%,16%,"4,212",56,"5,406,570",Somewhat Reliable,Northern America,North America
+12072,"Nanjing, Jiangsu [CHN]",Not available,13%,18%,"35,246",15,"5,385,672",Very Unreliable,Asia,Eastern Asia
+5314,Baghdad [IRQ],Not available,4%,50%,"10,363",72,"5,367,305",Somewhat Reliable,Asia,Western Asia
+11136,Ha Noi [VNM],Not available,10%,36%,"19,595",39,"5,353,038",Unreliable,Asia,South-Eastern Asia
+5222,Dar es Salaam [TZA],Not available,42%,55%,"24,012",40,"5,345,515",Unreliable,Africa,Eastern Africa
+10035,Chittagong [BGD],Not available,9%,16%,"32,040",19,"5,293,804",Unreliable,Asia,Southern Asia
+323,Dallas-Fort Worth [USA],1%,13%,10%,"3,226",52,"5,165,561",Somewhat Reliable,Northern America,North America
+12394,Surakarta [IDN],Not available,4%,28%,"6,941",45,"5,098,560",Unreliable,Asia,South-Eastern Asia
+10479,"Xi'an, Shaanxi [CHN]",Not available,16%,8%,"44,730",13,"5,071,324",Very Unreliable,Asia,Eastern Asia
+5915,Dubayy (Dubai) [ARE],Not available,20%,25%,"12,692",49,"4,909,471",Somewhat Reliable,Asia,Western Asia
+1701,Madrid [ESP],58%,68%,76%,"10,203",75,"4,894,295",Somewhat Reliable,Europe,Southern Europe
+315,Houston [USA],4%,15%,8%,"3,663",41,"4,873,720",Somewhat Reliable,Northern America,North America
+12578,Wenzhou [CHN],Not available,3%,1%,"22,899",10,"4,699,634",Very Unreliable,Asia,Eastern Asia
+10607,Chongqing [CHN],Not available,9%,6%,"25,839",13,"4,649,254",Very Unreliable,Asia,Eastern Asia
+7854,Lucknow [IND],Not available,21%,11%,"28,459",68,"4,622,784",Unreliable,Asia,Southern Asia
+10,San Francisco-Oakland [USA],19%,27%,41%,"5,932",53,"4,604,961",Somewhat Reliable,Northern America,North America
+1675,Abidjan [CIV],Not available,15%,75%,"25,996",70,"4,551,850",Unreliable,Africa,Western Africa
+88,Guadalajara [MEX],Not available,16%,48%,"16,186",87,"4,530,296",Somewhat Reliable,Latin America and the Caribbean,Central America
+21,San Diego [USA]; Tijuana [MEX],5%,16%,20%,"6,388",49,"4,437,235",Somewhat Reliable,Latin America and the Caribbean,Central America
+1910,Accra [GHA],Not available,6%,44%,"12,369",39,"4,412,617",Unreliable,Africa,Western Africa
+6118,Kabul [AFG],Not available,5%,7%,"25,580",40,"4,381,842",Unreliable,Asia,Southern Asia
+11009,Zhengzhou [CHN],Not available,7%,10%,"25,041",15,"4,368,639",Very Unreliable,Asia,Eastern Asia
+8835,Colombo [LKA],Not available,6%,28%,"9,945",17,"4,303,603",Unreliable,Asia,Southern Asia
+3396,Sankt Peterburg (Saint Petersburg) [RUS],Not available,80%,81%,"8,582",114,"4,300,867",Somewhat Reliable,Europe,Eastern Europe
+200,Monterrey [MEX],Not available,33%,51%,"14,000",91,"4,227,777",Somewhat Reliable,Latin America and the Caribbean,Central America
+8463,Varanasi (Benares) [IND],Not available,6%,6%,"26,236",15,"4,188,271",Unreliable,Asia,Southern Asia
+2717,Kano [NGA],Not available,1%,10%,"30,769",98,"4,158,609",Unreliable,Africa,Western Africa
+11112,Haerbin [CHN],Not available,17%,8%,"29,489",19,"4,130,657",Very Unreliable,Asia,Eastern Asia
+12530,Xiamen [CHN],Not available,12%,11%,"81,954",15,"4,088,517",Very Unreliable,Asia,Eastern Asia
+1346,Belo Horizonte [BRA],7%,18%,41%,"13,329",62,"4,038,592",Somewhat Reliable,Latin America and the Caribbean,South America
+12569,Quanzhou [CHN],Not available,2%,1%,"12,887",8,"4,009,700",Very Unreliable,Asia,Eastern Asia
+11881,Hefei [CHN],Not available,12%,16%,"36,252",11,"3,998,647",Very Unreliable,Asia,Eastern Asia
+4808,Nairobi [KEN],35%,21%,40%,"51,102",37,"3,986,170",Unreliable,Africa,Eastern Africa
+1575,Dar-el-Beida (Casablanca) [MAR],Not available,14%,48%,"31,126",78,"3,985,660",Unreliable,Africa,Northern Africa
+10692,Medan [IDN],Not available,2%,9%,"11,209",44,"3,956,183",Unreliable,Asia,South-Eastern Asia
+2095,El Djazair  (Algiers) [DZA],Not available,18%,63%,"12,416",46,"3,857,233",Unreliable,Africa,Northern Africa
+816,Santo Domingo [DOM],Not available,14%,56%,"14,315",67,"3,847,331",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+2051,Barcelona [ESP],36%,62%,72%,"13,050",68,"3,832,012",Somewhat Reliable,Europe,Southern Europe
+5134,Addis Ababa [ETH],Not available,4%,55%,"24,453",78,"3,830,788",Unreliable,Africa,Eastern Africa
+7756,Kanpur [IND],Not available,3%,6%,"28,864",45,"3,773,461",Unreliable,Asia,Southern Asia
+13043,Sydney [AUS],Not available,49%,43%,"5,286",34,"3,745,335",Somewhat Reliable,Oceania,Australia/New Zealand
+6329,Rawalpindi [PAK],Not available,7%,28%,"21,518",45,"3,738,564",Unreliable,Asia,Southern Asia
+4408,Amman [JOR],Not available,8%,20%,"12,536",52,"3,672,403",Unreliable,Asia,Western Asia
+79,Phoenix-Mesa [USA],1%,18%,15%,"3,064",41,"3,611,577",Somewhat Reliable,Northern America,North America
+6893,Jaipur [IND],Not available,6%,8%,"20,306",77,"3,607,261",Unreliable,Asia,Southern Asia
+11771,Qingdao [CHN],Not available,12%,18%,"23,066",16,"3,603,126",Very Unreliable,Asia,Eastern Asia
+6405,Faisalabad [PAK],Not available,7%,25%,"20,181",71,"3,563,007",Unreliable,Asia,Southern Asia
+8759,Kathmandu [NPL],Not available,46%,90%,"37,624",38,"3,529,143",Unreliable,Asia,Southern Asia
+4921,Jiddah [SAU],Not available,4%,10%,"12,744",60,"3,517,162",Somewhat Reliable,Asia,Western Asia
+3268,Cape Town [ZAF],Not available,33%,23%,"13,800",61,"3,511,853",Unreliable,Africa,Southern Africa
+4427,Kampala [UGA],Not available,14%,45%,"13,640",19,"3,483,365",Unreliable,Africa,Eastern Africa
+13023,Melbourne [AUS],22%,42%,50%,"3,509",37,"3,468,084",Somewhat Reliable,Oceania,Australia/New Zealand
+2961,Yaounde [CMR],Not available,6%,74%,"29,330",42,"3,465,247",Unreliable,Africa,Middle Africa
+11223,"Ji'nan, Shandong [CHN]",Not available,16%,18%,"23,537",14,"3,460,771",Very Unreliable,Asia,Eastern Asia
+10532,"Taiyuan, Shanxi [CHN]",Not available,5%,9%,"27,624",8,"3,451,600",Very Unreliable,Asia,Eastern Asia
+2276,Dortmund [DEU],Not available,69%,66%,"2,598",51,"3,443,653",Somewhat Reliable,Europe,Western Europe
+12678,Busan [KOR],Not available,21%,74%,"16,623",59,"3,431,209",Somewhat Reliable,Asia,Eastern Asia
+1445,Recife [BRA],Not available,28%,60%,"17,670",71,"3,430,754",Somewhat Reliable,Latin America and the Caribbean,South America
+561,Medellin [COL],Not available,37%,69%,"30,863",77,"3,418,610",Somewhat Reliable,Latin America and the Caribbean,South America
+11540,Dalian [CHN],Not available,6%,6%,"28,318",17,"3,379,822",Very Unreliable,Asia,Eastern Asia
+855,"Washington, D.C. [USA]",14%,39%,31%,"4,712",44,"3,368,613",Somewhat Reliable,Northern America,North America
+1452,Dakar [SEN],Not available,11%,73%,"23,097",158,"3,358,310",Unreliable,Africa,Western Africa
+11248,Changchun [CHN],Not available,15%,20%,"30,027",17,"3,337,264",Very Unreliable,Asia,Eastern Asia
+11626,Changsha [CHN],Not available,10%,9%,"32,822",16,"3,325,178",Very Unreliable,Asia,Eastern Asia
+3420,Athinai (Athens) [GRC],64%,54%,88%,"12,158",132,"3,315,199",Somewhat Reliable,Europe,Southern Europe
+10718,Shijiazhuang [CHN],Not available,5%,2%,"18,596",10,"3,314,770",Very Unreliable,Asia,Eastern Asia
+770,Detroit [USA]; Windsor [CAN],1%,16%,20%,"2,053",46,"3,288,132",Somewhat Reliable,Northern America,North America
+2851,Berlin [DEU],51%,72%,77%,"4,539",74,"3,271,872",Somewhat Reliable,Europe,Western Europe
+1406,Fortaleza [BRA],Not available,19%,69%,"17,916",74,"3,204,986",Somewhat Reliable,Latin America and the Caribbean,South America
+5705,Al Kuwayt (Kuwait City) [KWT],Not available,28%,17%,"10,659",68,"3,168,016",Somewhat Reliable,Asia,Western Asia
+2980,Napoli (Naples) [ITA],Not available,26%,41%,"11,134",24,"3,167,668",Somewhat Reliable,Europe,Southern Europe
+9402,Asansol [IND],Not available,1%,2%,"35,009",14,"3,167,486",Unreliable,Asia,Southern Asia
+2189,Ibadan [NGA],Not available,3%,3%,"14,768",49,"3,164,715",Unreliable,Africa,Western Africa
+6008,Tashkent [UZB],Not available,8%,32%,"32,764",42,"3,157,850",Unreliable,Asia,Central Asia
+2484,Onitsha [NGA],Not available,0%,0%,"11,858",14,"3,150,802",Unreliable,Africa,Western Africa
+898,Philadelphia [USA],6%,20%,38%,"5,238",59,"3,132,223",Somewhat Reliable,Northern America,North America
+1017,Montreal [CAN],2%,41%,56%,"6,106",50,"3,105,304",Somewhat Reliable,Northern America,North America
+857,Caracas [VEN],Not available,14%,44%,"22,400",44,"3,104,241",Somewhat Reliable,Latin America and the Caribbean,South America
+12384,Semarang [IDN],Not available,6%,49%,"9,571",54,"3,077,248",Unreliable,Asia,South-Eastern Asia
+10476,Kunming [CHN],Not available,13%,24%,"39,049",12,"3,070,466",Very Unreliable,Asia,Eastern Asia
+7045,Urumqi (Wulumqi) [CHN],Not available,10%,9%,"27,570",10,"3,057,127",Very Unreliable,Asia,Eastern Asia
+12566,"Fuzhou, Fujian [CHN]",Not available,12%,9%,"27,024",14,"3,038,501",Very Unreliable,Asia,Eastern Asia
+1420,Salvador [BRA],Not available,18%,40%,"26,463",51,"3,030,496",Somewhat Reliable,Latin America and the Caribbean,South America
+3541,Mbuji-Mayi [COD],Not available,5%,3%,"47,079",82,"3,024,105",Unreliable,Africa,Middle Africa
+2559,Milano (Milan) [ITA],38%,62%,80%,"8,419",44,"3,011,030",Somewhat Reliable,Europe,Southern Europe
+3809,Ankara [TUR],Not available,36%,80%,"16,726",71,"3,002,440",Somewhat Reliable,Asia,Western Asia
+12010,Nanchang [CHN],Not available,12%,26%,"28,379",13,"2,983,794",Very Unreliable,Asia,Eastern Asia
+1553,Bamako [MLI],Not available,7%,80%,"21,069",102,"2,968,307",Unreliable,Africa,Western Africa
+2850,Douala [CMR],Not available,2%,70%,"28,987",57,"2,965,133",Unreliable,Africa,Middle Africa
+1785,Kumasi [GHA],Not available,4%,14%,"14,277",37,"2,954,548",Unreliable,Africa,Western Africa
+7927,Nagpur [IND],Not available,5%,23%,"24,137",87,"2,908,828",Unreliable,Asia,Southern Asia
+7190,Indore [IND],Not available,18%,57%,"24,961",75,"2,886,469",Unreliable,Asia,Southern Asia
+3868,Durban (Ethekwini) [ZAF],Not available,4%,3%,"9,063",27,"2,867,062",Unreliable,Africa,Southern Africa
+5918,Mashhad [IRN],Not available,30%,60%,"16,167",70,"2,841,666",Unreliable,Asia,Southern Asia
+3528,Izmir [TUR],Not available,21%,29%,"21,441",115,"2,794,142",Somewhat Reliable,Asia,Western Asia
+6469,Gujranwala [PAK],Not available,3%,17%,"24,720",54,"2,788,655",Unreliable,Asia,Southern Asia
+8914,Patna [IND],Not available,6%,16%,"47,258",26,"2,771,973",Unreliable,Asia,Southern Asia
+741,Port-au-Prince [HTI],Not available,37%,79%,"29,125",38,"2,769,342",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+6203,Peshawar [PAK],Not available,3%,8%,"24,069",22,"2,764,734",Unreliable,Asia,Southern Asia
+427,Guayaquil [ECU],Not available,31%,78%,"19,480",130,"2,739,453",Somewhat Reliable,Latin America and the Caribbean,South America
+3517,Kyiv (Kiev) [UKR],Not available,62%,66%,"6,492",60,"2,737,789",Somewhat Reliable,Europe,Eastern Europe
+4407,Dimashq (Damascus) [SYR],Not available,16%,31%,"16,257",36,"2,705,864",Unreliable,Asia,Western Asia
+1799,Ouagadougou [BFA],Not available,18%,53%,"14,487",100,"2,704,697",Unreliable,Africa,Western Africa
+8201,Allahabad [IND],Not available,5%,12%,"59,471",60,"2,695,887",Unreliable,Asia,Southern Asia
+12981,Cebu City [PHL],Not available,22%,52%,"27,638",38,"2,678,296",Unreliable,Asia,South-Eastern Asia
+140,Seattle [USA],15%,28%,34%,"2,572",44,"2,678,205",Somewhat Reliable,Northern America,North America
+288,Ciudad de Guatemala (Guatemala City) [GTM],Not available,13%,31%,"14,239",92,"2,674,361",Somewhat Reliable,Latin America and the Caribbean,Central America
+12528,Ningbo [CHN],Not available,7%,4%,"20,113",11,"2,650,539",Very Unreliable,Asia,Eastern Asia
+12250,"Changzhou, Jiangsu [CHN]",Not available,12%,14%,"12,724",8,"2,573,370",Very Unreliable,Asia,Eastern Asia
+7887,Kochi (Cochin) [IND],2%,3%,20%,"8,855",15,"2,546,843",Unreliable,Asia,Southern Asia
+5635,Sana'a' [YEM],Not available,3%,64%,"36,986",56,"2,537,060",Somewhat Reliable,Asia,Western Asia
+10854,Guiyang [CHN],Not available,5%,1%,"32,837",11,"2,531,220",Very Unreliable,Asia,Eastern Asia
+12651,Daegu [KOR],Not available,21%,69%,"13,444",51,"2,474,025",Somewhat Reliable,Asia,Eastern Asia
+1502,Conakry [GIN],Not available,8%,64%,"20,544",53,"2,469,835",Unreliable,Africa,Western Africa
+4337,Bayrut (Beirut) [LBN],Not available,18%,69%,"36,932",54,"2,463,482",Somewhat Reliable,Asia,Western Asia
+12109,P'yongyang [PRK],Not available,16%,7%,"17,237",19,"2,439,214",Very Unreliable,Asia,Eastern Asia
+7264,Agra [IND],Not available,7%,16%,"24,852",55,"2,430,432",Unreliable,Asia,Southern Asia
+4220,Matola [MOZ],Not available,7%,20%,"12,276",68,"2,428,912",Unreliable,Africa,Eastern Africa
+1800,Birmingham (West Midlands) [GBR],Not available,56%,74%,"4,122",40,"2,426,863",Somewhat Reliable,Europe,Northern Europe
+6337,Multan [PAK],Not available,1%,17%,"13,922",35,"2,422,577",Unreliable,Asia,Southern Asia
+12709,Gaoxiong [TWN],Not available,24%,53%,"14,017",60,"2,413,648",Somewhat Reliable,Asia,Eastern Asia
+3798,Lusaka [ZMB],Not available,9%,23%,"16,152",37,"2,381,621",Unreliable,Africa,Eastern Africa
+11382,Nanning [CHN],Not available,5%,13%,"47,483",9,"2,372,502",Very Unreliable,Asia,Eastern Asia
+10122,Lanzhou [CHN],Not available,21%,30%,"27,136",22,"2,365,069",Very Unreliable,Asia,Eastern Asia
+4309,Tel Aviv-Yafo (Tel Aviv-Jaffa) [ISR],Not available,61%,53%,"9,611",50,"2,362,273",Somewhat Reliable,Asia,Western Asia
+1242,Curitiba [BRA],Not available,20%,58%,"9,141",50,"2,345,495",Somewhat Reliable,Latin America and the Caribbean,South America
+2897,Roma (Rome) [ITA],Not available,52%,68%,"11,905",49,"2,342,860",Somewhat Reliable,Europe,Southern Europe
+512,Cali [COL],Not available,39%,73%,"25,758",112,"2,323,112",Somewhat Reliable,Latin America and the Caribbean,South America
+467,Quito [ECU],Not available,25%,78%,"13,387",65,"2,254,137",Somewhat Reliable,Latin America and the Caribbean,South America
+3756,Lubumbashi [COD],Not available,8%,37%,"15,531",49,"2,245,427",Unreliable,Africa,Middle Africa
+272,Denver-Aurora [USA],7%,34%,21%,"2,940",51,"2,229,500",Somewhat Reliable,Northern America,North America
+12693,Taizhong [TWN],67%,24%,55%,"13,345",45,"2,223,137",Somewhat Reliable,Asia,Eastern Asia
+7724,Kozhikode (Calicut) [IND],Not available,2%,14%,"14,084",9,"2,209,629",Unreliable,Asia,Southern Asia
+8023,Coimbatore [IND],Not available,1%,19%,"22,239",38,"2,204,880",Unreliable,Asia,Southern Asia
+12863,Makassar (Ujung Pandang) [IDN],Not available,19%,55%,"15,490",70,"2,203,263",Unreliable,Asia,South-Eastern Asia
+1780,Manchester [GBR],Not available,56%,56%,"4,102",52,"2,202,575",Somewhat Reliable,Europe,Northern Europe
+6760,Chandigarh [IND],Not available,24%,16%,"16,539",53,"2,169,863",Unreliable,Asia,Southern Asia
+12136,Tasikmalaya [IDN],Not available,1%,3%,"12,959",13,"2,166,831",Unreliable,Asia,South-Eastern Asia
+5792,Antananarivo [MDG],Not available,28%,39%,"46,417",17,"2,148,584",Unreliable,Africa,Eastern Africa
+7061,Meerut [IND],Not available,3%,6%,"22,443",18,"2,145,647",Unreliable,Asia,Southern Asia
+2020,Lome [TGO]; Aflao [GHA],Not available,24%,55%,"13,534",65,"2,142,501",Unreliable,Africa,Western Africa
+719,Maracaibo [VEN],Not available,7%,26%,"12,487",70,"2,141,737",Somewhat Reliable,Latin America and the Caribbean,South America
+177,Puebla [MEX],Not available,11%,29%,"11,137",50,"2,130,628",Somewhat Reliable,Latin America and the Caribbean,Central America
+12741,Kitakyushu-Fukuoka M.M.A. [JPN],Not available,33%,68%,"6,594",95,"2,121,624",Somewhat Reliable,Asia,Eastern Asia
+2767,Tunis [TUN],Not available,19%,44%,"10,154",91,"2,116,487",Unreliable,Africa,Northern Africa
+6737,Vadodara [IND],Not available,2%,15%,"18,610",58,"2,113,535",Unreliable,Asia,Southern Asia
+4417,Halab (Aleppo) [SYR],Not available,15%,42%,"12,895",65,"2,112,719",Unreliable,Asia,Western Asia
+1165,Belem [BRA],Not available,11%,21%,"18,689",62,"2,087,907",Somewhat Reliable,Latin America and the Caribbean,South America
+9284,Dhanbad [IND],Not available,0%,1%,"24,415",11,"2,087,167",Unreliable,Asia,Southern Asia
+7459,Bhopal [IND],Not available,5%,14%,"18,454",95,"2,077,320",Unreliable,Asia,Southern Asia
+1022,Boston [USA],21%,34%,41%,"5,607",53,"2,063,274",Somewhat Reliable,Northern America,North America
+12253,Tegal [IDN],Not available,0%,0%,"10,260",19,"2,047,860",Unreliable,Asia,South-Eastern Asia
+8404,Gorakhpur [IND],Not available,1%,2%,"34,440",23,"2,043,655",Unreliable,Asia,Southern Asia
+74,Las Vegas [USA],0%,11%,10%,"4,247",52,"2,029,110",Somewhat Reliable,Northern America,North America
+1006,Manaus [BRA],Not available,17%,53%,"18,026",65,"2,016,987",Somewhat Reliable,Latin America and the Caribbean,South America
+187,Vancouver [CAN],42%,50%,55%,"5,661",56,"2,015,030",Somewhat Reliable,Northern America,North America
+5811,Esfahan [IRN],Not available,21%,41%,"9,376",61,"2,011,732",Unreliable,Asia,Southern Asia
+3401,Minsk [BLR],Not available,83%,80%,"8,386",108,"2,006,722",Somewhat Reliable,Europe,Eastern Europe
+9987,Noakhali [BGD],Not available,1%,0%,"9,102",5,"2,006,142",Unreliable,Asia,Southern Asia
+501,Tampa-St. Petersburg [USA],0%,12%,13%,"2,420",48,"1,996,767",Somewhat Reliable,Northern America,North America
+10186,Baotou [CHN],Not available,9%,0%,"31,186",13,"1,995,854",Very Unreliable,Asia,Eastern Asia
+1074,Asuncion [PRY]; Clorinda [ARG],Not available,12%,66%,"6,905",53,"1,968,288",Somewhat Reliable,Latin America and the Caribbean,South America
+5528,Baku [AZE],Not available,23%,57%,"9,072",45,"1,961,523",Somewhat Reliable,Asia,Western Asia
+8095,Thiruvananthapuram [IND],Not available,2%,18%,"12,682",10,"1,961,463",Unreliable,Asia,Southern Asia
+7963,Kollam [IND],Not available,1%,11%,"8,603",7,"1,959,060",Unreliable,Asia,Southern Asia
+1551,Lisboa (Lisbon) [PRT],0%,58%,84%,"10,431",64,"1,958,521",Somewhat Reliable,Europe,Southern Europe
+12479,Cixi [CHN],Not available,1%,0%,"6,795",6,"1,935,628",Very Unreliable,Asia,Eastern Asia
+4171,Harare [ZWE],Not available,16%,17%,"7,157",25,"1,934,205",Unreliable,Africa,Eastern Africa
+2123,Rotterdam [NLD],Not available,63%,57%,"3,418",86,"1,913,888",Somewhat Reliable,Europe,Western Europe
+626,Barranquilla [COL],Not available,20%,48%,"22,337",109,"1,912,316",Somewhat Reliable,Latin America and the Caribbean,South America
+11653,Palembang [IDN],Not available,3%,17%,"15,164",62,"1,910,183",Unreliable,Asia,South-Eastern Asia
+12736,Sapporo [JPN],Not available,50%,78%,"5,784",120,"1,894,557",Somewhat Reliable,Asia,Eastern Asia
+6476,Sialkot [PAK],Not available,2%,18%,"23,448",26,"1,885,761",Unreliable,Asia,Southern Asia
+10265,Hohhot [CHN],Not available,3%,0%,"22,371",9,"1,881,076",Very Unreliable,Asia,Eastern Asia
+12708,Denpasar [IDN],Not available,6%,42%,"10,511",39,"1,878,236",Unreliable,Asia,South-Eastern Asia
+1177,Goiania [BRA],Not available,11%,22%,"8,604",69,"1,877,865",Somewhat Reliable,Latin America and the Caribbean,South America
+9924,Brahman Bariya [BGD],Not available,1%,2%,"11,862",16,"1,874,156",Unreliable,Asia,Southern Asia
+8344,Madurai [IND],Not available,2%,31%,"42,040",62,"1,872,298",Unreliable,Asia,Southern Asia
+1595,Rabat [MAR],Not available,22%,54%,"22,196",93,"1,865,738",Unreliable,Africa,Northern Africa
+392,San Jose [CRI],Not available,28%,69%,"8,577",41,"1,861,672",Somewhat Reliable,Latin America and the Caribbean,Central America
+3027,Wien (Vienna) [AUT],79%,74%,76%,"5,595",75,"1,856,676",Somewhat Reliable,Europe,Western Europe
+12211,Zhuhai [CHN],Not available,37%,27%,"36,610",28,"1,856,283",Very Unreliable,Asia,Eastern Asia
+473,La Habana (Havana) [CUB],Not available,24%,58%,"10,096",53,"1,839,558",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+6251,Hyderabad [PAK],Not available,5%,54%,"51,139",81,"1,835,126",Unreliable,Asia,Southern Asia
+10155,Mandalay [MMR],Not available,4%,51%,"16,787",49,"1,825,592",Unreliable,Asia,South-Eastern Asia
+8123,Faizabad [IND],Not available,1%,0%,"62,892",6,"1,825,357",Unreliable,Asia,Southern Asia
+11478,Phnum Penh (Phnom Penh) [KHM],Not available,20%,57%,"23,334",48,"1,816,032",Unreliable,Asia,South-Eastern Asia
+10860,Luoyang [CHN],Not available,8%,6%,"16,863",24,"1,804,860",Very Unreliable,Asia,Eastern Asia
+6659,Ludhiana [IND],Not available,5%,17%,"13,508",58,"1,800,152",Unreliable,Asia,Southern Asia
+3216,Warszawa (Warsaw) [POL],60%,74%,75%,"4,908",70,"1,789,294",Somewhat Reliable,Europe,Eastern Europe
+1218,Porto Alegre [BRA],8%,33%,60%,"11,012",49,"1,776,856",Somewhat Reliable,Latin America and the Caribbean,South America
+3186,N'Djamena [TCD]; Kousseri [CMR],Not available,2%,48%,"23,818",59,"1,775,332",Unreliable,Africa,Middle Africa
+6970,Nashik [IND],Not available,3%,8%,"21,417",46,"1,775,255",Unreliable,Asia,Southern Asia
+3444,Bucuresti (Bucharest) [ROU],Not available,39%,74%,"9,186",68,"1,774,128",Somewhat Reliable,Europe,Eastern Europe
+9780,Sirajganj [BGD],Not available,1%,3%,"8,624",6,"1,771,424",Unreliable,Asia,Southern Asia
+9359,Jamshedpur [IND],Not available,2%,3%,"22,958",19,"1,765,135",Unreliable,Asia,Southern Asia
+143,Ciudad Juarez [MEX]; El Paso [USA],0%,13%,15%,"6,567",66,"1,762,654",Somewhat Reliable,Latin America and the Caribbean,Central America
+3193,Budapest [HUN],67%,51%,74%,"5,693",58,"1,758,468",Somewhat Reliable,Europe,Eastern Europe
+2078,Abomey-Calavi [BEN],Not available,4%,59%,"13,081",66,"1,752,804",Unreliable,Africa,Western Africa
+554,Minneapolis-St. Paul [USA],9%,30%,16%,"2,358",45,"1,733,145",Somewhat Reliable,Northern America,North America
+6174,Almaty [KAZ],Not available,19%,36%,"6,685",37,"1,730,584",Unreliable,Asia,Central Asia
+2491,Ihiala [NGA],Not available,0%,0%,"13,117",9,"1,713,471",Unreliable,Africa,Western Africa
+4285,Gaza (incl. Ash Shati Camp) [PSE]; Rafah [EGY],Not available,4%,74%,"11,988",35,"1,706,220",Unreliable,Africa,Northern Africa
+849,La Paz [BOL],Not available,46%,78%,"11,670",126,"1,699,529",Somewhat Reliable,Latin America and the Caribbean,South America
+3589,Bursa [TUR],Not available,23%,28%,"35,978",112,"1,680,190",Somewhat Reliable,Asia,Western Asia
+821,Valencia [VEN],Not available,4%,30%,"10,380",63,"1,678,999",Somewhat Reliable,Latin America and the Caribbean,South America
+321,San Salvador [SLV],Not available,19%,41%,"13,168",49,"1,675,635",Somewhat Reliable,Latin America and the Caribbean,Central America
+12444,Kudus [IDN],Not available,2%,8%,"7,971",19,"1,659,608",Unreliable,Asia,South-Eastern Asia
+101,Portland [USA],7%,34%,36%,"2,648",46,"1,655,686",Somewhat Reliable,Northern America,North America
+1372,Sao Goncalo [BRA],Not available,12%,34%,"13,119",44,"1,654,402",Somewhat Reliable,Latin America and the Caribbean,South America
+7251,Moradabad [IND],Not available,0%,0%,"35,283",9,"1,652,297",Unreliable,Asia,Southern Asia
+3211,Brazzaville [COG],Not available,7%,40%,"33,835",115,"1,636,003",Unreliable,Africa,Middle Africa
+11354,Zibo [CHN],Not available,3%,0%,"8,017",6,"1,631,853",Very Unreliable,Asia,Eastern Asia
+12179,Cirebon [IDN],Not available,3%,6%,"12,793",35,"1,619,474",Unreliable,Asia,South-Eastern Asia
+7227,Aligarh [IND],Not available,2%,0%,"32,389",62,"1,617,980",Unreliable,Asia,Southern Asia
+7779,Ponnani [IND],Not available,1%,10%,"9,768",7,"1,611,774",Unreliable,Asia,Southern Asia
+11561,Xuzhou [CHN],Not available,9%,6%,"19,416",10,"1,610,966",Very Unreliable,Asia,Eastern Asia
+7970,Jabalpur [IND],Not available,2%,0%,"32,146",29,"1,609,651",Unreliable,Asia,Southern Asia
+9122,Visakhapatnam [IND],Not available,4%,19%,"39,066",56,"1,603,231",Unreliable,Asia,Southern Asia
+2570,Kaduna [NGA],Not available,1%,7%,"14,055",40,"1,601,676",Unreliable,Africa,Western Africa
+2531,Hamburg [DEU],49%,72%,64%,"2,953",65,"1,596,992",Somewhat Reliable,Europe,Western Europe
+9160,Ranchi [IND],Not available,7%,17%,"25,971",34,"1,592,224",Unreliable,Asia,Southern Asia
+11925,Haikou [CHN],Not available,3%,0%,"27,337",13,"1,591,695",Very Unreliable,Asia,Eastern Asia
+10991,"Tangshan, Hebei [CHN]",Not available,12%,10%,"11,395",10,"1,578,320",Very Unreliable,Asia,Eastern Asia
+2784,Munchen (Munich) [DEU],Not available,86%,85%,"5,118",80,"1,573,652",Somewhat Reliable,Europe,Western Europe
+5820,Ad-Dammam [SAU],Not available,3%,5%,"7,316",49,"1,564,432",Somewhat Reliable,Asia,Western Asia
+976,Santa Cruz [BOL],Not available,25%,66%,"8,417",65,"1,557,363",Somewhat Reliable,Latin America and the Caribbean,South America
+5865,Ar-Rayyan [QAT],Not available,4%,24%,"11,647",44,"1,556,520",Somewhat Reliable,Asia,Western Asia
+2354,Benin City [NGA],Not available,0%,23%,"10,049",32,"1,550,239",Unreliable,Africa,Western Africa
+9653,Tamluk [IND],Not available,0%,0%,"15,232",6,"1,540,714",Unreliable,Asia,Southern Asia
+7266,Aurangabad [IND],Not available,6%,27%,"30,772",77,"1,539,255",Unreliable,Asia,Southern Asia
+12540,Daejon [KOR],Not available,34%,76%,"14,747",69,"1,534,182",Somewhat Reliable,Asia,Eastern Asia
+49,Sacramento [USA],1%,15%,12%,"3,089",45,"1,528,104",Somewhat Reliable,Northern America,North America
+3134,Katowice [POL],Not available,58%,54%,"2,794",47,"1,526,062",Somewhat Reliable,Europe,Eastern Europe
+7387,Gwalior [IND],Not available,4%,0%,"28,171",35,"1,525,101",Unreliable,Asia,Southern Asia
+8278,Salem [IND],Not available,0%,33%,"23,094",35,"1,521,872",Unreliable,Asia,Southern Asia
+4351,Al-Quds [PSE]; Jerusalem [ISR],Not available,56%,59%,"14,206",48,"1,521,423",Somewhat Reliable,Asia,Western Asia
+559,Atlanta [USA],2%,10%,7%,"2,764",27,"1,516,952",Somewhat Reliable,Northern America,North America
+5354,Tabriz [IRN],Not available,19%,58%,"8,911",63,"1,511,359",Unreliable,Asia,Southern Asia
+119,Leon de los Aldamas [MEX],Not available,7%,18%,"16,426",91,"1,510,974",Somewhat Reliable,Latin America and the Caribbean,Central America
+7436,Bareilly [IND],Not available,2%,0%,"34,399",26,"1,509,151",Unreliable,Asia,Southern Asia
+2310,Koln (Cologne) [DEU],34%,70%,65%,"2,987",50,"1,508,677",Somewhat Reliable,Europe,Western Europe
+4099,Beni [COD],Not available,17%,94%,"67,502",60,"1,505,135",Unreliable,Africa,Middle Africa
+5765,Muqdisho (Mogadishu) [SOM],Not available,7%,12%,"28,430",158,"1,503,035",Unreliable,Africa,Eastern Africa
+11415,Jilin [CHN],Not available,9%,4%,"30,957",11,"1,501,500",Very Unreliable,Asia,Eastern Asia
+10398,Datong [CHN],Not available,4%,2%,"24,923",8,"1,501,062",Very Unreliable,Asia,Eastern Asia
+5668,Al-Basrah (Basra) [IRQ],Not available,6%,58%,"22,385",81,"1,484,284",Somewhat Reliable,Asia,Western Asia
+250,San Antonio [USA],3%,9%,16%,"3,081",49,"1,483,927",Somewhat Reliable,Northern America,North America
+12279,Huizhou [CHN],Not available,2%,0%,"16,615",11,"1,481,074",Very Unreliable,Asia,Eastern Asia
+3698,Pretoria [ZAF],Not available,11%,17%,"10,311",32,"1,473,571",Unreliable,Africa,Southern Africa
+12611,Gwangju [KOR],Not available,25%,67%,"11,505",58,"1,469,650",Somewhat Reliable,Asia,Eastern Asia
+11438,Liuzhou [CHN],Not available,7%,5%,"17,808",14,"1,451,939",Very Unreliable,Asia,Eastern Asia
+2565,Abuja [NGA],Not available,1%,0%,"8,193",26,"1,450,169",Unreliable,Africa,Western Africa
+10137,Yinchuan [CHN],Not available,6%,0%,"17,938",6,"1,440,105",Very Unreliable,Asia,Eastern Asia
+8913,Muzaffarpur [IND],Not available,0%,0%,"28,943",10,"1,435,602",Unreliable,Asia,Southern Asia
+8513,Raipur [IND],Not available,7%,19%,"17,043",39,"1,435,494",Unreliable,Asia,Southern Asia
+146,Toluca de Lerdo [MEX],Not available,12%,32%,"9,063",30,"1,434,153",Somewhat Reliable,Latin America and the Caribbean,Central America
+3781,Kharkiv [UKR],Not available,47%,54%,"5,541",50,"1,430,661",Somewhat Reliable,Europe,Eastern Europe
+1526,Monrovia [LBR],Not available,27%,7%,"11,788",30,"1,421,576",Unreliable,Africa,Western Africa
+12090,Garut [IDN],Not available,3%,17%,"18,672",17,"1,412,271",Unreliable,Asia,South-Eastern Asia
+6840,Nalasopara [IND],Not available,10%,0%,"28,267",17,"1,410,559",Unreliable,Asia,Southern Asia
+11706,Yantai [CHN],Not available,1%,1%,"16,851",7,"1,404,328",Very Unreliable,Asia,Eastern Asia
+1291,Campinas [BRA],Not available,21%,41%,"10,151",63,"1,396,670",Somewhat Reliable,Latin America and the Caribbean,South America
+7885,Mysore [IND],Not available,14%,47%,"20,040",87,"1,396,068",Unreliable,Asia,Southern Asia
+1911,Valencia [ESP],26%,52%,60%,"8,337",67,"1,393,120",Somewhat Reliable,Europe,Southern Europe
+11401,Anshan [CHN],Not available,7%,0%,"27,664",7,"1,386,690",Very Unreliable,Asia,Eastern Asia
+2135,Bruxelles-Brussel [BEL],72%,63%,83%,"7,847",58,"1,381,517",Somewhat Reliable,Europe,Western Europe
+6522,Rajkot [IND],Not available,3%,9%,"20,735",97,"1,379,759",Unreliable,Asia,Southern Asia
+3862,Al-Fayyum [EGY],Not available,13%,4%,"16,614",58,"1,369,514",Unreliable,Africa,Northern Africa
+1035,Cordoba [ARG],Not available,20%,56%,"6,297",75,"1,365,995",Somewhat Reliable,Latin America and the Caribbean,South America
+3795,Fatih [TUR],Not available,37%,66%,"26,155",65,"1,363,364",Somewhat Reliable,Asia,Western Asia
+880,Baltimore [USA],Not available,24%,37%,"3,877",58,"1,360,858",Somewhat Reliable,Northern America,North America
+12650,Jember [IDN],Not available,1%,6%,"8,650",20,"1,356,771",Unreliable,Asia,South-Eastern Asia
+8628,Vijayawada [IND],Not available,5%,35%,"29,880",71,"1,356,195",Unreliable,Asia,Southern Asia
+12287,Purwokerto [IDN],Not available,4%,18%,"10,318",27,"1,355,246",Unreliable,Asia,South-Eastern Asia
+5854,Shiraz [IRN],Not available,20%,40%,"9,730",59,"1,341,825",Unreliable,Asia,Southern Asia
+4424,Gaziantep [TUR],Not available,27%,29%,"21,691",128,"1,324,140",Somewhat Reliable,Asia,Western Asia
+9602,Ulaanbaatar [MNG],Not available,27%,55%,"16,255",33,"1,316,070",Somewhat Reliable,Asia,Eastern Asia
+5073,Makkah (Mecca) [SAU],Not available,8%,11%,"12,715",51,"1,312,911",Somewhat Reliable,Asia,Western Asia
+11599,"Linyi, Shandong [CHN]",Not available,11%,21%,"7,488",12,"1,312,576",Very Unreliable,Asia,Eastern Asia
+12618,"Taizhou, Zhejiang [CHN]",Not available,1%,0%,"20,089",8,"1,311,574",Very Unreliable,Asia,Eastern Asia
+1138,Montevideo [URY],Not available,21%,75%,"10,512",60,"1,310,839",Somewhat Reliable,Latin America and the Caribbean,South America
+6595,Jodhpur [IND],Not available,4%,13%,"15,754",78,"1,310,398",Unreliable,Asia,Southern Asia
+1819,West Yorkshire [GBR],Not available,65%,71%,"3,928",49,"1,309,503",Somewhat Reliable,Europe,Northern Europe
+8616,Siwarhi [IND],Not available,0%,0%,"9,537",6,"1,308,910",Unreliable,Asia,Southern Asia
+2973,Stockholm [SWE],58%,79%,67%,"4,631",82,"1,305,076",Somewhat Reliable,Europe,Northern Europe
+568,Orlando [USA],0%,9%,4%,"2,805",43,"1,290,483",Somewhat Reliable,Northern America,North America
+9726,Bogra [BGD],Not available,3%,5%,"6,603",12,"1,284,400",Unreliable,Asia,Southern Asia
+1312,Grande Sao Luis [BRA],Not available,10%,23%,"13,486",69,"1,277,593",Somewhat Reliable,Latin America and the Caribbean,South America
+8104,Tiruppur [IND],Not available,1%,8%,"17,103",30,"1,274,814",Unreliable,Asia,Southern Asia
+1751,Liverpool [GBR],Not available,46%,55%,"3,978",50,"1,273,981",Somewhat Reliable,Europe,Northern Europe
+8448,Tiruchirappalli [IND],Not available,4%,30%,"28,828",54,"1,267,905",Unreliable,Asia,Southern Asia
+12334,Pekalongan [IDN],Not available,2%,0%,"9,907",23,"1,263,929",Unreliable,Asia,South-Eastern Asia
+11640,Perth [AUS],12%,53%,26%,"2,786",36,"1,258,344",Somewhat Reliable,Oceania,Australia/New Zealand
+9863,Khulna [BGD],Not available,7%,23%,"19,629",27,"1,255,282",Unreliable,Asia,Southern Asia
+10753,Baoding [CHN],Not available,4%,2%,"17,438",6,"1,251,379",Very Unreliable,Asia,Eastern Asia
+5836,Al-Manamah (Manama) [BHR],Not available,8%,33%,"7,829",83,"1,247,787",Somewhat Reliable,Asia,Western Asia
+5159,Irbil (Erbil) [IRQ],Not available,19%,70%,"9,567",96,"1,246,462",Somewhat Reliable,Asia,Western Asia
+12319,Nantong [CHN],Not available,17%,23%,"19,429",11,"1,236,455",Very Unreliable,Asia,Eastern Asia
+12291,Sha Tin [CHN],Not available,88%,64%,"68,250",57,"1,234,633",Somewhat Reliable,Asia,Eastern Asia
+5712,Ahvaz [IRN],Not available,13%,15%,"12,644",74,"1,232,269",Unreliable,Asia,Southern Asia
+6025,Novosibirsk [RUS],Not available,37%,54%,"3,957",57,"1,230,729",Somewhat Reliable,Europe,Eastern Europe
+2749,Kbenhavn (Copenhagen) [DNK],Not available,77%,60%,"5,696",73,"1,225,959",Somewhat Reliable,Europe,Northern Europe
+7669,Thalassery [IND],Not available,2%,8%,"18,174",8,"1,217,014",Unreliable,Asia,Southern Asia
+6548,Amritsar [IND],Not available,8%,1%,"27,006",52,"1,209,649",Unreliable,Asia,Southern Asia
+2405,Torino (Turin) [ITA],70%,49%,83%,"11,690",56,"1,205,385",Somewhat Reliable,Europe,Southern Europe
+12743,Kitakyushu [JPN],Not available,18%,44%,"3,626",74,"1,203,250",Somewhat Reliable,Asia,Eastern Asia
+2574,Aba [NGA],Not available,2%,1%,"30,140",38,"1,195,860",Unreliable,Africa,Western Africa
+1664,Fes [MAR],Not available,24%,75%,"31,918",115,"1,193,826",Unreliable,Africa,Northern Africa
+1507,Freetown [SLE],Not available,30%,51%,"23,518",37,"1,190,401",Unreliable,Africa,Western Africa
+790,Cleveland [USA],1%,10%,24%,"2,253",30,"1,188,875",Somewhat Reliable,Northern America,North America
+12778,Hiroshima [JPN],Not available,35%,55%,"5,728",93,"1,186,235",Somewhat Reliable,Asia,Eastern Asia
+7665,Hardoi [IND],Not available,6%,0%,"137,895",4,"1,185,764",Unreliable,Asia,Southern Asia
+12947,Takasaki [JPN],Not available,25%,50%,"2,302",77,"1,173,901",Somewhat Reliable,Asia,Eastern Asia
+10097,Xining [CHN],Not available,10%,1%,"25,215",9,"1,171,720",Very Unreliable,Asia,Eastern Asia
+8183,Sultanpur [IND],Not available,0%,0%,"171,961",22,"1,165,748",Unreliable,Asia,Southern Asia
+8188,Erode [IND],Not available,1%,11%,"16,698",21,"1,165,506",Unreliable,Asia,Southern Asia
+2511,Port Harcourt [NGA],Not available,1%,6%,"25,315",27,"1,159,890",Unreliable,Africa,Western Africa
+12451,Yiwu [CHN],Not available,3%,1%,"20,671",17,"1,159,382",Very Unreliable,Asia,Eastern Asia
+1210,Brasilia [BRA],Not available,35%,62%,"14,500",78,"1,158,153",Somewhat Reliable,Latin America and the Caribbean,South America
+8464,Durg-Bhilainagar [IND],Not available,1%,3%,"13,324",31,"1,154,996",Unreliable,Asia,Southern Asia
+4195,Nizhniy Novgorod [RUS],Not available,59%,58%,"4,050",78,"1,154,630",Somewhat Reliable,Europe,Eastern Europe
+2186,Lyon [FRA],Not available,56%,82%,"7,035",47,"1,152,368",Somewhat Reliable,Europe,Western Europe
+367,Managua [NIC],69%,21%,75%,"10,699",65,"1,145,289",Somewhat Reliable,Latin America and the Caribbean,Central America
+12931,Sendai [JPN],Not available,25%,74%,"4,697",72,"1,142,678",Somewhat Reliable,Asia,Eastern Asia
+12602,Yueqing [CHN],Not available,1%,0%,"9,207",7,"1,138,813",Very Unreliable,Asia,Eastern Asia
+729,"Columbus, Ohio [USA]",4%,18%,17%,"2,507",48,"1,138,151",Somewhat Reliable,Northern America,North America
+10912,Handan [CHN],Not available,3%,0%,"21,274",8,"1,137,997",Very Unreliable,Asia,Eastern Asia
+2971,Tarabulus (Tripoli) [LBY],Not available,4%,46%,"3,485",46,"1,136,250",Unreliable,Africa,Northern Africa
+1890,Wahran (Oran) [DZA],Not available,5%,64%,"12,992",88,"1,134,883",Unreliable,Africa,Northern Africa
+6965,Saharanpur [IND],Not available,0%,0%,"31,598",14,"1,134,418",Unreliable,Asia,Southern Asia
+12181,Zhongshan [CHN],Not available,7%,7%,"11,356",27,"1,133,016",Very Unreliable,Asia,Eastern Asia
+4980,Yerevan [ARM],Not available,34%,68%,"9,834",38,"1,132,741",Somewhat Reliable,Asia,Western Asia
+9619,Baharampur [IND],Not available,1%,0%,"32,347",7,"1,131,547",Unreliable,Asia,Southern Asia
+411,Kansas City [USA],0%,21%,16%,"1,836",39,"1,129,297",Somewhat Reliable,Northern America,North America
+2167,Amsterdam [NLD],Not available,68%,52%,"3,667",92,"1,128,715",Somewhat Reliable,Europe,Western Europe
+2927,Praha (Prague) [CZE],1%,82%,71%,"4,024",89,"1,126,681",Somewhat Reliable,Europe,Eastern Europe
+5817,Hufuf-Mubarraz [SAU],Not available,1%,2%,"6,027",58,"1,121,137",Unreliable,Asia,Western Asia
+6130,Bishkek [KGZ],Not available,45%,81%,"15,380",38,"1,119,915",Unreliable,Asia,Central Asia
+458,Ciudad de Panama (Panama City) [PAN],Not available,19%,29%,"13,242",38,"1,119,524",Somewhat Reliable,Latin America and the Caribbean,Central America
+3581,Odesa [UKR],Not available,33%,56%,"9,565",40,"1,117,970",Somewhat Reliable,Europe,Eastern Europe
+1474,Nouakchott [MRT],Not available,9%,66%,"21,052",150,"1,116,872",Unreliable,Africa,Western Africa
+4172,Kigali [RWA],Not available,14%,15%,"12,363",25,"1,114,832",Unreliable,Africa,Eastern Africa
+2067,Niamey [NER],Not available,9%,87%,"18,797",83,"1,113,943",Unreliable,Africa,Western Africa
+3270,Beograd (Belgrade) [SRB],17%,43%,65%,"6,667",50,"1,106,870",Somewhat Reliable,Europe,Southern Europe
+12585,Putian [CHN],Not available,2%,3%,"10,023",6,"1,106,639",Very Unreliable,Asia,Eastern Asia
+4907,Al-Madinah (Medina) [SAU],Not available,4%,4%,"9,675",66,"1,106,401",Unreliable,Asia,Western Asia
+9982,Sylhet [BGD],Not available,2%,21%,"17,258",18,"1,105,314",Unreliable,Asia,Southern Asia
+6442,Srinagar [IND],Not available,3%,0%,"28,382",29,"1,105,045",Unreliable,Asia,Southern Asia
+9915,Guwahati (Gauhati) [IND],Not available,3%,7%,"12,644",27,"1,103,543",Unreliable,Asia,Southern Asia
+675,Milwaukee [USA],7%,23%,24%,"2,929",50,"1,101,830",Somewhat Reliable,Northern America,North America
+487,St. Louis [USA],0%,14%,16%,"2,242",43,"1,100,884",Somewhat Reliable,Northern America,North America
+1070,Rosario [ARG],Not available,19%,71%,"6,781",73,"1,099,816",Somewhat Reliable,Latin America and the Caribbean,South America
+11519,Weifang [CHN],Not available,18%,13%,"14,451",9,"1,098,286",Very Unreliable,Asia,Eastern Asia
+12300,Zhangjiagang [CHN],Not available,3%,2%,"7,571",6,"1,094,642",Very Unreliable,Asia,Eastern Asia
+3071,Garoua [CMR],Not available,6%,75%,"46,108",47,"1,094,637",Unreliable,Africa,Middle Africa
+11719,Bandar Lampung [IDN],Not available,3%,7%,"13,032",60,"1,091,523",Unreliable,Asia,South-Eastern Asia
+897,Cochabamba [BOL],Not available,40%,73%,"9,349",66,"1,091,207",Somewhat Reliable,Latin America and the Caribbean,South America
+651,Indianapolis [USA],1%,9%,4%,"1,849",32,"1,086,020",Somewhat Reliable,Northern America,North America
+144,San Luis Potosi [MEX],Not available,12%,19%,"13,638",75,"1,083,940",Somewhat Reliable,Latin America and the Caribbean,Central America
+12088,"Wuhu, Anhui [CHN]",Not available,12%,1%,"24,903",10,"1,081,141",Very Unreliable,Asia,Eastern Asia
+11398,"Fushun, Liaoning [CHN]",Not available,2%,0%,"18,524",14,"1,080,133",Very Unreliable,Asia,Eastern Asia
+4917,Tbilisi [GEO],Not available,40%,70%,"12,792",45,"1,077,840",Somewhat Reliable,Asia,Western Asia
+1400,Grande Vitoria [BRA],Not available,38%,86%,"13,524",77,"1,076,799",Somewhat Reliable,Latin America and the Caribbean,South America
+10923,Anyang [CHN],Not available,6%,4%,"14,560",19,"1,076,264",Very Unreliable,Asia,Eastern Asia
+3927,Al-Mansurah [EGY],Not available,5%,7%,"21,736",63,"1,073,967",Unreliable,Africa,Northern Africa
+7016,Dehradun [IND],Not available,6%,20%,"17,687",31,"1,071,076",Unreliable,Asia,Southern Asia
+4288,Rostov-na-Donu (Rostov-on-Don) [RUS],Not available,35%,58%,"5,279",59,"1,070,468",Somewhat Reliable,Europe,Eastern Europe
+3044,Maiduguri [NGA],Not available,0%,12%,"19,665",51,"1,069,539",Unreliable,Africa,Western Africa
+11492,Guilin [CHN],Not available,5%,9%,"12,957",18,"1,069,415",Very Unreliable,Asia,Eastern Asia
+11113,Xiangyang [CHN],Not available,1%,0%,"18,696",5,"1,067,521",Very Unreliable,Asia,Eastern Asia
+8078,Gonda [IND],Not available,0%,0%,"142,195",5,"1,066,419",Unreliable,Asia,Southern Asia
+6045,Dushanbe [TJK],Not available,16%,47%,"14,051",34,"1,063,670",Unreliable,Asia,Central Asia
+273,Austin [USA],2%,17%,17%,"3,520",48,"1,063,621",Somewhat Reliable,Northern America,North America
+7509,Solapur [IND],Not available,3%,11%,"27,330",86,"1,059,904",Unreliable,Asia,Southern Asia
+7028,Kota [IND],Not available,10%,10%,"17,241",86,"1,059,888",Unreliable,Asia,Southern Asia
+12703,Tainan [TWN],Not available,23%,53%,"8,893",57,"1,059,817",Somewhat Reliable,Asia,Eastern Asia
+12803,Angeles City [PHL],Not available,7%,18%,"29,638",81,"1,056,211",Unreliable,Asia,South-Eastern Asia
+11275,Hai Phong [VNM],Not available,4%,31%,"12,474",31,"1,051,010",Unreliable,Asia,South-Eastern Asia
+7973,Kottayam [IND],Not available,4%,20%,"11,448",13,"1,044,045",Unreliable,Asia,Southern Asia
+2240,Ilorin [NGA],Not available,0%,0%,"14,140",39,"1,039,258",Unreliable,Africa,Western Africa
+126,La Laguna [MEX],Not available,15%,12%,"9,705",94,"1,038,510",Somewhat Reliable,Latin America and the Caribbean,Central America
+5633,Chelyabinsk [RUS],Not available,35%,47%,"3,272",60,"1,034,760",Somewhat Reliable,Europe,Eastern Europe
+13129,Auckland [NZL],15%,51%,57%,"3,770",26,"1,034,101",Somewhat Reliable,Oceania,Australia/New Zealand
+5329,Mombasa [KEN],Not available,14%,14%,"26,656",35,"1,033,984",Unreliable,Africa,Eastern Africa
+1438,Maceio [BRA],Not available,33%,52%,"18,075",73,"1,029,493",Somewhat Reliable,Latin America and the Caribbean,South America
+4552,Kazan [RUS],Not available,28%,49%,"3,478",50,"1,028,391",Somewhat Reliable,Europe,Eastern Europe
+362,Calgary [CAN],13%,63%,46%,"3,364",65,"1,027,227",Somewhat Reliable,Northern America,North America
+6238,Mardan [PAK],Not available,1%,1%,"21,901",12,"1,026,217",Unreliable,Asia,Southern Asia
+3363,Bangui [CAF]; Zongo [COD],Not available,25%,29%,"24,861",34,"1,024,436",Unreliable,Africa,Middle Africa
+6503,Jammu [IND],Not available,4%,4%,"11,293",40,"1,021,219",Unreliable,Asia,Southern Asia
+12409,Jiaxing [CHN],Not available,5%,0%,"19,797",7,"1,019,544",Very Unreliable,Asia,Eastern Asia
+600,Kingston [JAM],Not available,14%,38%,"7,378",37,"1,018,848",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+5428,Diwaniyah [IRQ],Not available,2%,57%,"37,150",79,"1,017,085",Somewhat Reliable,Asia,Western Asia
+4990,Al-Mawsil (Mosul) [IRQ],Not available,4%,47%,"18,514",78,"1,016,969",Somewhat Reliable,Asia,Western Asia
+5169,Mits'Iwa [ERI],Not available,0%,0%,"564,809",82,"1,014,460",Unreliable,Africa,Eastern Africa
+5515,Kermanshah [IRN],Not available,14%,36%,"14,901",90,"1,014,032",Unreliable,Asia,Southern Asia
+7558,Farrukhabad [IND],Not available,0%,0%,"83,762",4,"1,013,702",Unreliable,Asia,Southern Asia
+5387,Najaf [IRQ],Not available,7%,68%,"21,370",83,"1,012,533",Somewhat Reliable,Asia,Western Asia
+9478,Bhubaneswar [IND],Not available,6%,7%,"13,647",56,"1,010,642",Unreliable,Asia,Southern Asia
+11767,Dandong [CHN]; Sinuiju [PRK],Not available,5%,0%,"31,284",17,"1,007,051",Very Unreliable,Asia,Eastern Asia
+1656,Dublin [IRL],39%,67%,80%,"4,292",52,"1,004,263",Somewhat Reliable,Europe,Northern Europe
+1320,Baixada Santista [BRA],Not available,17%,31%,"17,541",89,"1,003,922",Somewhat Reliable,Latin America and the Caribbean,South America
+11821,Da Nang [VNM],Not available,7%,37%,"15,089",60,"1,003,279",Unreliable,Asia,South-Eastern Asia
+1473,Touba [SEN],Not available,1%,19%,"15,512",131,"1,002,133",Unreliable,Africa,Western Africa
+359,Tegucigalpa [HND],Not available,22%,41%,"12,222",72,"998,561",Somewhat Reliable,Latin America and the Caribbean,Central America
+1569,Porto [PRT],Not available,36%,62%,"5,655",39,"998,283",Somewhat Reliable,Europe,Southern Europe
+11738,Huainan [CHN],Not available,4%,6%,"20,059",10,"997,914",Very Unreliable,Asia,Eastern Asia
+11146,Pekan Baru [IDN],Not available,3%,41%,"9,630",50,"997,682",Unreliable,Asia,South-Eastern Asia
+3486,Kananga [COD],Not available,0%,4%,"25,670",64,"996,322",Unreliable,Africa,Middle Africa
+4083,Donetsk [UKR],Not available,18%,41%,"3,189",38,"996,286",Somewhat Reliable,Europe,Eastern Europe
+5914,Omsk [RUS],Not available,32%,49%,"3,248",65,"995,901",Somewhat Reliable,Europe,Eastern Europe
+9958,Lakshmipur [BGD],Not available,0%,1%,"7,022",4,"994,818",Unreliable,Asia,Southern Asia
+12763,Samarinda [IDN],Not available,2%,56%,"19,450",53,"993,545",Unreliable,Asia,South-Eastern Asia
+9131,Begusarai [IND],Not available,2%,9%,"29,921",5,"993,322",Unreliable,Asia,Southern Asia
+7566,Shahjahanpur [IND],Not available,3%,0%,"58,208",9,"992,380",Unreliable,Asia,Southern Asia
+6618,Jalandhar [IND],Not available,2%,7%,"14,028",86,"992,193",Unreliable,Asia,Southern Asia
+11011,Qingtuozi [CHN],Not available,2%,1%,"18,562",12,"990,730",Very Unreliable,Asia,Eastern Asia
+13076,Brisbane [AUS],20%,45%,35%,"3,482",34,"990,070",Somewhat Reliable,Oceania,Australia/New Zealand
+2514,Stuttgart [DEU],9%,80%,80%,"3,690",71,"986,038",Somewhat Reliable,Europe,Western Europe
+2557,Etiti [NGA],Not available,0%,1%,"21,678",12,"984,279",Unreliable,Africa,Western Africa
+4104,Sawhaj [EGY],Not available,3%,11%,"21,454",30,"978,161",Unreliable,Africa,Northern Africa
+2593,Enugu [NGA],Not available,0%,27%,"19,234",31,"977,851",Unreliable,Africa,Western Africa
+1635,Tanger [MAR],Not available,33%,59%,"24,200",114,"976,955",Unreliable,Africa,Northern Africa
+403,Edmonton [CAN],16%,56%,33%,"2,976",49,"975,001",Somewhat Reliable,Northern America,North America
+193,Salt Lake City [USA],0%,20%,17%,"2,680",42,"972,715",Somewhat Reliable,Northern America,North America
+902,San Juan [PRI],Not available,16%,41%,"5,726",41,"969,580",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+12725,Mataram [IDN],Not available,21%,67%,"11,514",41,"969,440",Unreliable,Asia,South-Eastern Asia
+7924,Fatehpur [IND],Not available,0%,0%,"97,131",4,"967,303",Unreliable,Asia,Southern Asia
+11842,Zhanjiang [CHN],Not available,15%,17%,"33,018",17,"967,286",Very Unreliable,Asia,Eastern Asia
+783,Barquisimeto [VEN],Not available,3%,24%,"13,809",70,"965,076",Somewhat Reliable,Latin America and the Caribbean,South America
+6323,Abbottabad [PAK],Not available,4%,15%,"33,410",14,"960,783",Unreliable,Asia,Southern Asia
+2445,Frankfurt am Main [DEU],Not available,76%,75%,"3,653",62,"958,696",Somewhat Reliable,Europe,Western Europe
+11547,Batam [IDN],Not available,12%,35%,"15,438",137,"953,794",Unreliable,Asia,South-Eastern Asia
+11698,Hengyang [CHN],Not available,5%,2%,"18,624",10,"952,976",Very Unreliable,Asia,Eastern Asia
+1544,Agadir [MAR],Not available,17%,42%,"13,397",99,"952,634",Unreliable,Africa,Northern Africa
+670,Bucaramanga [COL],Not available,32%,39%,"24,010",104,"952,631",Somewhat Reliable,Latin America and the Caribbean,South America
+6234,Mingaora [PAK],Not available,15%,1%,"32,505",19,"951,131",Unreliable,Asia,Southern Asia
+1709,Glasgow [GBR],Not available,64%,61%,"3,431",60,"948,355",Somewhat Reliable,Europe,Northern Europe
+1570,Marrakech [MAR],Not available,44%,63%,"47,740",64,"947,497",Unreliable,Africa,Northern Africa
+3729,Antalya [TUR],Not available,24%,45%,"8,671",60,"944,864",Somewhat Reliable,Asia,Western Asia
+12882,Naha [JPN],Not available,24%,63%,"6,630",58,"942,036",Somewhat Reliable,Asia,Eastern Asia
+10988,Padang [IDN],Not available,9%,40%,"11,292",54,"940,949",Unreliable,Asia,South-Eastern Asia
+11692,Zhuzhou [CHN],Not available,5%,0%,"35,256",9,"940,765",Very Unreliable,Asia,Eastern Asia
+966,Mendoza [ARG],Not available,22%,73%,"8,268",58,"937,976",Somewhat Reliable,Latin America and the Caribbean,South America
+11654,"Xiangtan, Hunan [CHN]",Not available,4%,3%,"16,956",9,"933,234",Very Unreliable,Asia,Eastern Asia
+9845,Tangail [BGD],Not available,1%,3%,"5,972",10,"933,116",Unreliable,Asia,Southern Asia
+7731,Lakhimpur [IND],Not available,0%,0%,"113,619",3,"932,937",Unreliable,Asia,Southern Asia
+7944,Bahraich [IND],Not available,0%,0%,"107,073",10,"932,405",Unreliable,Asia,Southern Asia
+12977,Adelaide [AUS],22%,33%,33%,"2,728",40,"930,903",Somewhat Reliable,Oceania,Australia/New Zealand
+586,Cartagena [COL],Not available,29%,53%,"15,945",108,"930,724",Somewhat Reliable,Latin America and the Caribbean,South America
+139,Queretaro [MEX],Not available,38%,69%,"13,023",85,"930,200",Somewhat Reliable,Latin America and the Caribbean,Central America
+1449,Joao Pessoa [BRA],Not available,11%,27%,"13,166",77,"929,836",Somewhat Reliable,Latin America and the Caribbean,South America
+5489,Yekaterinburg [RUS],Not available,56%,62%,"3,496",71,"929,157",Somewhat Reliable,Europe,Eastern Europe
+3381,Sofia [BGR],Not available,53%,69%,"5,689",68,"926,881",Somewhat Reliable,Europe,Eastern Europe
+9707,Krishnanagar [IND],Not available,1%,4%,"64,286",12,"926,326",Unreliable,Asia,Southern Asia
+5756,Qom [IRN],Not available,20%,44%,"13,184",93,"924,950",Unreliable,Asia,Southern Asia
+3968,Az-Zaqazig [EGY],Not available,26%,14%,"36,668",116,"924,760",Unreliable,Africa,Northern Africa
+12682,Ulsan [KOR],Not available,15%,44%,"9,208",55,"922,819",Somewhat Reliable,Asia,Eastern Asia
+833,Maracay [VEN],Not available,2%,16%,"14,161",58,"921,014",Somewhat Reliable,Latin America and the Caribbean,South America
+8405,Mirzapurcumvindhyachal [IND],Not available,1%,0%,"60,933",7,"920,607",Unreliable,Asia,Southern Asia
+12710,Banjarmasin [IDN],Not available,12%,44%,"16,650",59,"919,312",Unreliable,Asia,South-Eastern Asia
+8384,Jaunpur [IND],Not available,0%,0%,"72,098",6,"916,051",Unreliable,Asia,Southern Asia
+9657,Rangpur [BGD],Not available,2%,8%,"9,331",9,"911,913",Unreliable,Asia,Southern Asia
+2228,Marseille [FRA],Not available,47%,81%,"7,559",43,"909,727",Somewhat Reliable,Europe,Western Europe
+3244,Helsinki [FIN],65%,85%,60%,"2,936",86,"907,386",Somewhat Reliable,Europe,Northern Europe
+8208,Bela [IND],Not available,0%,0%,"163,175",15,"905,638",Unreliable,Asia,Southern Asia
+350,Merida [MEX],Not available,20%,31%,"7,928",78,"903,967",Somewhat Reliable,Latin America and the Caribbean,Central America
+2080,Lille [FRA]; Mouscron [BEL],18%,50%,80%,"4,189",48,"903,281",Somewhat Reliable,Europe,Western Europe
+3754,Dnipro [UKR],Not available,31%,45%,"3,569",41,"903,205",Somewhat Reliable,Europe,Eastern Europe
+4078,Bujumbura [BDI],Not available,14%,65%,"31,505",49,"901,425",Unreliable,Africa,Eastern Africa
+4756,Samara [RUS],Not available,36%,57%,"4,538",51,"900,591",Somewhat Reliable,Europe,Eastern Europe
+8578,Bilaspur [IND],Not available,2%,12%,"24,384",10,"900,278",Unreliable,Asia,Southern Asia
+11937,Huai'an [CHN],Not available,3%,0%,"28,746",4,"899,196",Very Unreliable,Asia,Eastern Asia
+11739,Huangshi [CHN],Not available,1%,1%,"17,288",6,"896,046",Very Unreliable,Asia,Eastern Asia
+1343,Teresina [BRA],Not available,11%,33%,"11,068",85,"894,356",Somewhat Reliable,Latin America and the Caribbean,South America
+7030,Muzaffarnagar [IND],Not available,1%,2%,"30,400",45,"889,394",Unreliable,Asia,Southern Asia
+7439,Hubli-Dharwad [IND],Not available,4%,47%,"52,283",41,"885,719",Unreliable,Asia,Southern Asia
+9278,Bokaro Steel City [IND],Not available,3%,0%,"25,848",28,"881,480",Unreliable,Asia,Southern Asia
+10556,Qiqihaer [CHN],Not available,3%,0%,"24,070",7,"880,401",Very Unreliable,Asia,Eastern Asia
+7496,Mangalore [IND],Not available,2%,18%,"7,380",11,"878,093",Unreliable,Asia,Southern Asia
+112,Aguascalientes [MEX],Not available,21%,49%,"13,345",86,"877,350",Somewhat Reliable,Latin America and the Caribbean,Central America
+8661,Puducherry [IND],Not available,7%,58%,"26,115",66,"876,032",Unreliable,Asia,Southern Asia
+11489,Jambi [IDN],Not available,2%,7%,"20,669",43,"873,970",Unreliable,Asia,South-Eastern Asia
+153,Cuernavaca [MEX],Not available,10%,24%,"9,101",46,"873,604",Somewhat Reliable,Latin America and the Caribbean,Central America
+4133,Jirja [EGY],Not available,0%,1%,"16,812",13,"873,425",Unreliable,Africa,Northern Africa
+6266,Krasnoyarsk [RUS],Not available,29%,48%,"4,027",60,"870,276",Somewhat Reliable,Europe,Eastern Europe
+11140,Yichang [CHN],Not available,4%,3%,"20,502",7,"863,221",Very Unreliable,Asia,Eastern Asia
+11551,Huaibei [CHN],Not available,7%,9%,"15,994",5,"862,493",Very Unreliable,Asia,Eastern Asia
+12499,Madiun [IDN],Not available,0%,3%,"5,918",21,"861,470",Unreliable,Asia,South-Eastern Asia
+1632,Sevilla [ESP],Not available,64%,76%,"8,783",87,"861,043",Somewhat Reliable,Europe,Southern Europe
+7322,Belgaum [IND],Not available,7%,35%,"27,518",49,"857,170",Unreliable,Asia,Southern Asia
+4028,Voronezh [RUS],Not available,49%,65%,"4,214",61,"856,829",Somewhat Reliable,Europe,Eastern Europe
+8474,Vellore [IND],Not available,2%,21%,"25,953",41,"853,764",Unreliable,Asia,Southern Asia
+10342,Baoji [CHN],Not available,10%,0%,"15,874",10,"848,686",Very Unreliable,Asia,Eastern Asia
+11161,Jinzhou [CHN],Not available,1%,0%,"18,462",11,"847,462",Very Unreliable,Asia,Eastern Asia
+8584,Guntur [IND],Not available,2%,32%,"24,208",80,"847,238",Unreliable,Asia,Southern Asia
+6712,Udaipur [IND],Not available,5%,7%,"15,474",35,"847,233",Unreliable,Asia,Southern Asia
+991,San Miguel de Tucuman [ARG],Not available,14%,39%,"7,683",58,"846,925",Somewhat Reliable,Latin America and the Caribbean,South America
+7288,Sangli [IND],Not available,4%,2%,"22,529",57,"845,917",Unreliable,Asia,Southern Asia
+5959,Herat [AFG],Not available,5%,9%,"34,152",28,"844,575",Unreliable,Asia,Southern Asia
+9975,Agartala [IND]; Akhaura [BGD],Not available,4%,10%,"14,346",12,"842,925",Unreliable,Asia,Southern Asia
+345,San Pedro Sula [HND],Not available,10%,38%,"7,665",82,"841,489",Somewhat Reliable,Latin America and the Caribbean,Central America
+3697,Soshanguve [ZAF],Not available,2%,1%,"7,317",42,"839,993",Unreliable,Africa,Southern Africa
+753,Arequipa [PER],Not available,45%,75%,"12,373",94,"838,010",Somewhat Reliable,Latin America and the Caribbean,South America
+5259,Kirkuk [IRQ],Not available,4%,69%,"10,047",100,"837,644",Somewhat Reliable,Asia,Western Asia
+10990,Xinxiang [CHN],Not available,4%,8%,"28,306",8,"835,655",Very Unreliable,Asia,Eastern Asia
+3889,Al-Mahallah al-Kubra [EGY],Not available,2%,0%,"27,836",108,"835,072",Unreliable,Africa,Northern Africa
+4027,Asyut [EGY],Not available,9%,17%,"30,236",43,"834,215",Unreliable,Africa,Northern Africa
+7084,Malegaon [IND],Not available,1%,0%,"41,622",31,"833,989",Unreliable,Asia,Southern Asia
+5344,Ufa [RUS],Not available,37%,56%,"5,172",56,"832,487",Somewhat Reliable,Europe,Eastern Europe
+847,Virginia Beach [USA],Not available,12%,15%,"5,823",46,"832,250",Somewhat Reliable,Northern America,North America
+901,Valparaiso [CHL],Not available,50%,71%,"7,557",85,"831,989",Somewhat Reliable,Latin America and the Caribbean,South America
+12124,Yangzhou [CHN],Not available,9%,2%,"10,849",8,"830,121",Very Unreliable,Asia,Eastern Asia
+12838,Okayama [JPN],Not available,22%,54%,"2,752",66,"829,536",Somewhat Reliable,Asia,Eastern Asia
+12351,Pontianak [IDN],Not available,3%,10%,"12,878",44,"829,084",Unreliable,Asia,South-Eastern Asia
+466,Trujillo [PER],Not available,26%,92%,"21,547",90,"829,083",Somewhat Reliable,Latin America and the Caribbean,South America
+4007,Bukavu [COD]; Cyangugu [RWA],Not available,39%,4%,"49,007",35,"827,033",Unreliable,Africa,Eastern Africa
+7355,Firozabad [IND],Not available,1%,0%,"36,484",6,"822,861",Unreliable,Asia,Southern Asia
+13024,Davao City [PHL],Not available,25%,72%,"58,619",89,"821,533",Unreliable,Asia,South-Eastern Asia
+3596,Nyala [SDN],Not available,0%,0%,"30,900",151,"820,684",Unreliable,Africa,Northern Africa
+4052,Goma [COD]; Gisenyi [RWA],Not available,21%,22%,"62,837",68,"820,570",Unreliable,Africa,Eastern Africa
+7923,Cherthala [IND],Not available,2%,20%,"13,981",8,"816,718",Unreliable,Asia,Southern Asia
+3384,Thessaloniki [GRC],Not available,53%,83%,"12,839",109,"813,775",Somewhat Reliable,Europe,Southern Europe
+12346,Changshu [CHN],Not available,2%,0%,"20,343",6,"812,990",Very Unreliable,Asia,Eastern Asia
+2414,Okene [NGA],Not available,0%,0%,"45,213",21,"809,219",Unreliable,Africa,Western Africa
+2765,Jos [NGA],Not available,0%,0%,"14,481",27,"806,296",Unreliable,Africa,Western Africa
+57,Mexicali [MEX]; Calexico [USA],Not available,14%,24%,"7,467",74,"805,240",Somewhat Reliable,Latin America and the Caribbean,Central America
+5893,Ashgabat [TKM],Not available,19%,46%,"10,680",34,"803,598",Unreliable,Asia,Central Asia
+11088,"Pingdingshan, Henan [CHN]",Not available,7%,11%,"14,021",10,"802,739",Very Unreliable,Asia,Eastern Asia
+1677,Malaga [ESP],7%,55%,55%,"7,017",75,"799,997",Somewhat Reliable,Europe,Southern Europe
+111,Chihuahua [MEX],Not available,23%,15%,"8,113",97,"794,324",Somewhat Reliable,Latin America and the Caribbean,Central America
+9650,Rajshahi [BGD],Not available,4%,6%,"11,827",17,"793,654",Unreliable,Asia,Southern Asia
+5685,Hargeysa [SOM],Not available,1%,17%,"35,792",130,"792,311",Unreliable,Africa,Eastern Africa
+6559,Bikaner [IND],Not available,3%,0%,"15,187",52,"792,282",Unreliable,Asia,Southern Asia
+2133,Antwerpen [BEL],Not available,36%,43%,"2,340",40,"792,029",Somewhat Reliable,Europe,Western Europe
+7998,Raebareli [IND],Not available,0%,0%,"54,218",8,"791,800",Unreliable,Asia,Southern Asia
+4495,Lilongwe [MWI],Not available,15%,4%,"17,291",28,"791,496",Unreliable,Africa,Eastern Africa
+3843,Konya [TUR],Not available,13%,32%,"6,550",65,"791,429",Somewhat Reliable,Asia,Western Asia
+2165,Ikorodu [NGA],Not available,0%,2%,"5,111",38,"790,813",Unreliable,Africa,Western Africa
+65,Hermosillo [MEX],Not available,19%,37%,"9,264",92,"788,949",Somewhat Reliable,Latin America and the Caribbean,Central America
+5909,Abu Zaby (Abu Dhabi) [ARE],Not available,22%,31%,"6,579",52,"787,746",Somewhat Reliable,Asia,Western Asia
+4182,Mersin [TUR],Not available,10%,17%,"11,884",83,"786,305",Somewhat Reliable,Asia,Western Asia
+178,Saltillo [MEX],Not available,15%,20%,"10,608",86,"785,797",Somewhat Reliable,Latin America and the Caribbean,Central America
+5924,Al-Ain [ARE]; Al-Buraymi [OMN],Not available,8%,11%,"6,270",35,"783,519",Somewhat Reliable,Asia,Western Asia
+7750,Sitapur [IND],Not available,0%,0%,"88,697",27,"782,439",Unreliable,Asia,Southern Asia
+1091,Campo Grande [BRA],Not available,13%,39%,"6,636",70,"782,349",Somewhat Reliable,Latin America and the Caribbean,South America
+2493,Oslo [NOR],61%,76%,78%,"3,045",69,"782,172",Somewhat Reliable,Europe,Northern Europe
+4470,Mwanza [TZA],Not available,6%,33%,"16,567",17,"782,040",Unreliable,Africa,Eastern Africa
+3869,Tanta [EGY],Not available,59%,5%,"24,893",94,"779,681",Unreliable,Africa,Northern Africa
+11144,Qinhuangdao [CHN],Not available,2%,0%,"17,536",6,"779,402",Very Unreliable,Asia,Eastern Asia
+1737,Bilbao [ESP],48%,75%,77%,"12,171",68,"778,582",Somewhat Reliable,Europe,Southern Europe
+1430,Aracaju [BRA],Not available,25%,63%,"14,796",83,"777,968",Somewhat Reliable,Latin America and the Caribbean,South America
+9905,Kishorganj [BGD],Not available,2%,3%,"7,948",10,"777,320",Unreliable,Asia,Southern Asia
+11068,"Nanyang, Henan [CHN]",Not available,2%,4%,"11,779",3,"775,928",Very Unreliable,Asia,Eastern Asia
+8284,Warangal [IND],Not available,2%,42%,"14,912",83,"773,389",Unreliable,Asia,Southern Asia
+4216,Kayseri [TUR],Not available,20%,43%,"10,063",56,"772,654",Somewhat Reliable,Asia,Western Asia
+11300,"Jingzhou, Hubei [CHN]",Not available,6%,1%,"13,635",6,"768,875",Very Unreliable,Asia,Eastern Asia
+904,Barcelona-Puerto La Cruz [VEN],Not available,5%,15%,"12,491",56,"768,016",Somewhat Reliable,Latin America and the Caribbean,South America
+5243,Orumiyeh [IRN],Not available,13%,52%,"11,579",63,"765,853",Unreliable,Asia,Southern Asia
+6995,Alwar [IND],Not available,2%,5%,"20,033",83,"765,451",Unreliable,Asia,Southern Asia
+681,Cincinnati [USA],3%,24%,18%,"2,169",37,"764,047",Somewhat Reliable,Northern America,North America
+3065,Lubango [AGO],Not available,3%,31%,"18,903",39,"762,020",Unreliable,Africa,Middle Africa
+8978,Gaya [IND],Not available,2%,14%,"33,679",15,"761,322",Unreliable,Asia,Southern Asia
+9524,Jalpaiguri [IND],Not available,1%,5%,"65,550",6,"760,558",Unreliable,Asia,Southern Asia
+11708,Mudanjiang [CHN],Not available,15%,17%,"15,867",25,"760,143",Very Unreliable,Asia,Eastern Asia
+4554,Saratov [RUS],Not available,28%,57%,"4,459",47,"759,224",Somewhat Reliable,Europe,Eastern Europe
+4243,Al-Uqsor [EGY],Not available,15%,36%,"49,204",42,"758,362",Unreliable,Africa,Northern Africa
+11537,Yueyang [CHN],Not available,15%,2%,"45,161",18,"757,521",Very Unreliable,Asia,Eastern Asia
+2625,Zaria [NGA],Not available,1%,2%,"18,836",51,"756,517",Unreliable,Africa,Western Africa
+1324,Sao Jose dos Campos [BRA],Not available,26%,36%,"11,913",58,"755,637",Somewhat Reliable,Latin America and the Caribbean,South America
+1830,Newcastle upon Tyne [GBR],Not available,64%,76%,"3,623",70,"754,572",Somewhat Reliable,Europe,Northern Europe
+7702,Gulbarga [IND],Not available,1%,24%,"27,428",118,"753,486",Unreliable,Asia,Southern Asia
+1669,Bobo-Dioulasso [BFA],Not available,9%,57%,"12,148",69,"751,312",Unreliable,Africa,Western Africa
+624,Louisville [USA],0%,11%,12%,"1,998",36,"750,695",Somewhat Reliable,Northern America,North America
+12153,"Zhenjiang, Jiangsu [CHN]",Not available,13%,33%,"36,689",10,"750,237",Very Unreliable,Asia,Eastern Asia
+6116,Quetta [PAK],Not available,1%,15%,"13,627",41,"749,960",Unreliable,Asia,Southern Asia
+5936,Astana [KAZ],Not available,17%,48%,"5,362",45,"749,746",Unreliable,Asia,Central Asia
+1063,Cuiaba [BRA],Not available,8%,18%,"7,684",68,"749,443",Somewhat Reliable,Latin America and the Caribbean,South America
+122,Acapulco de Juarez [MEX],Not available,3%,18%,"13,484",68,"749,406",Somewhat Reliable,Latin America and the Caribbean,Central America
+10809,Zunyi [CHN],Not available,6%,16%,"35,872",13,"748,982",Very Unreliable,Asia,Eastern Asia
+10000,Noakhali [BGD],Not available,6%,0%,"11,416",9,"748,795",Unreliable,Asia,Southern Asia
+11768,Bengbu [CHN],Not available,13%,13%,"22,501",9,"746,030",Very Unreliable,Asia,Eastern Asia
+12224,Hamhung [PRK],Not available,19%,3%,"16,668",20,"745,918",Very Unreliable,Asia,Eastern Asia
+7430,Budaun [IND],Not available,0%,0%,"120,172",9,"745,758",Unreliable,Asia,Southern Asia
+2288,Duesseldorf [DEU],Not available,74%,71%,"3,499",64,"744,020",Somewhat Reliable,Europe,Western Europe
+7267,Sambhal [IND],Not available,0%,0%,"82,980",11,"741,786",Unreliable,Asia,Southern Asia
+10859,Xingtai [CHN],Not available,5%,5%,"17,619",12,"740,827",Very Unreliable,Asia,Eastern Asia
+10319,"Mianyang, Sichuan [CHN]",Not available,7%,2%,"19,479",10,"739,073",Very Unreliable,Asia,Eastern Asia
+6003,Shimkent [KAZ],Not available,6%,33%,"5,856",28,"738,552",Unreliable,Asia,Central Asia
+4237,Adana [TUR],Not available,7%,13%,"13,712",109,"737,574",Unreliable,Asia,Western Asia
+5991,Samarkand [UZB],Not available,3%,37%,"4,438",21,"737,418",Unreliable,Asia,Central Asia
+13005,Cagayan de Oro City [PHL],Not available,13%,46%,"21,241",57,"735,962",Unreliable,Asia,South-Eastern Asia
+7218,Kolhapur [IND],Not available,5%,13%,"17,994",66,"734,264",Unreliable,Asia,Southern Asia
+7609,Kannur [IND],Not available,2%,7%,"8,681",6,"733,944",Unreliable,Asia,Southern Asia
+2368,Nice-Cannes [FRA],14%,33%,54%,"3,853",41,"733,095",Somewhat Reliable,Europe,Western Europe
+2463,Zurich (Zurich) [CHE],Not available,87%,78%,"4,395",82,"732,493",Somewhat Reliable,Europe,Western Europe
+7673,Sagar [IND],Not available,0%,0%,"43,247",11,"731,347",Unreliable,Asia,Southern Asia
+10910,Jiaozuo [CHN],Not available,0%,0%,"14,710",4,"731,207",Very Unreliable,Asia,Eastern Asia
+10084,Imphal [IND],Not available,1%,1%,"8,324",9,"729,190",Unreliable,Asia,Southern Asia
+8530,Kushinagar [IND],Not available,0%,0%,"17,491",5,"728,914",Unreliable,Asia,Southern Asia
+3769,Zaporizhzhya [UKR],Not available,24%,35%,"3,883",40,"728,145",Somewhat Reliable,Europe,Eastern Europe
+1455,Banjul [GMB],Not available,4%,17%,"10,700",51,"727,887",Unreliable,Africa,Western Africa
+9598,Kharagpur [IND],Not available,4%,9%,"34,578",21,"727,038",Unreliable,Asia,Southern Asia
+11493,Benxi [CHN],Not available,6%,5%,"28,390",17,"724,868",Very Unreliable,Asia,Eastern Asia
+11341,"Jining, Shandong [CHN]",Not available,3%,6%,"34,418",5,"724,604",Very Unreliable,Asia,Eastern Asia
+7864,Thrissur [IND],Not available,3%,30%,"9,950",16,"723,862",Unreliable,Asia,Southern Asia
+225,Veracruz [MEX],Not available,22%,53%,"12,828",107,"723,158",Somewhat Reliable,Latin America and the Caribbean,Central America
+73,Culiacan [MEX],Not available,30%,38%,"10,532",98,"721,975",Somewhat Reliable,Latin America and the Caribbean,Central America
+8599,Nellore [IND],Not available,1%,25%,"28,691",89,"720,712",Unreliable,Asia,Southern Asia
+7680,Amravati [IND],Not available,0%,17%,"17,955",94,"719,733",Unreliable,Asia,Southern Asia
+3274,Tirane (Tirana) [ALB],Not available,26%,63%,"10,786",39,"719,252",Somewhat Reliable,Europe,Southern Europe
+12958,Hamamatsu [JPN],Not available,22%,58%,"2,695",88,"718,870",Somewhat Reliable,Asia,Eastern Asia
+5332,Karbala [IRQ],Not available,5%,58%,"11,404",58,"717,905",Unreliable,Asia,Western Asia
+8552,Deoria [IND],Not available,1%,0%,"77,582",15,"717,233",Unreliable,Asia,Southern Asia
+12097,"Yancheng, Jiangsu [CHN]",Not available,3%,0%,"6,081",6,"716,529",Very Unreliable,Asia,Eastern Asia
+8290,Basti [IND],Not available,2%,0%,"56,865",13,"715,413",Unreliable,Asia,Southern Asia
+10940,Georgetown [MYS],Not available,17%,51%,"11,788",80,"714,447",Unreliable,Asia,South-Eastern Asia
+12691,Xinzhu [TWN],Not available,29%,39%,"8,032",38,"714,155",Somewhat Reliable,Asia,Eastern Asia
+5379,Sulaimaniya [IRQ],Not available,19%,77%,"11,545",121,"713,716",Unreliable,Asia,Western Asia
+5980,Qarshi [UZB],Not available,4%,13%,"6,680",25,"712,047",Unreliable,Asia,Central Asia
+2311,Sokoto [NGA],Not available,0%,0%,"26,853",54,"711,887",Unreliable,Africa,Western Africa
+11111,Kaifeng [CHN],Not available,11%,20%,"14,487",17,"711,186",Very Unreliable,Asia,Eastern Asia
+989,Ottawa-Gatineau [CAN],22%,66%,76%,"4,532",53,"710,584",Somewhat Reliable,Northern America,North America
+12599,Aojiang [CHN],Not available,1%,0%,"13,486",9,"710,549",Very Unreliable,Asia,Eastern Asia
+1838,Sheffield [GBR],Not available,74%,74%,"3,919",57,"710,273",Somewhat Reliable,Europe,Northern Europe
+11349,Changde [CHN],Not available,1%,0%,"35,121",6,"709,968",Very Unreliable,Asia,Eastern Asia
+3505,Port Elizabeth (Nelson Mandela Bay) [ZAF],Not available,7%,12%,"8,086",45,"709,507",Unreliable,Africa,Southern Africa
+819,Pittsburgh [USA],19%,21%,32%,"2,773",51,"709,250",Somewhat Reliable,Northern America,North America
+5533,Nasiriyah [IRQ],Not available,15%,65%,"28,151",92,"709,235",Unreliable,Asia,Western Asia
+4571,Volgograd [RUS],Not available,31%,52%,"3,469",51,"709,102",Somewhat Reliable,Europe,Eastern Europe
+11317,"Taian, Shandong [CHN]",Not available,11%,11%,"15,298",9,"709,078",Very Unreliable,Asia,Eastern Asia
+2363,Warri [NGA],Not available,0%,16%,"11,645",26,"708,411",Unreliable,Africa,Western Africa
+1779,Sekondi Takoradi [GHA],Not available,3%,20%,"14,442",24,"707,247",Unreliable,Africa,Western Africa
+7697,Nanded Waghala [IND],Not available,0%,0%,"25,931",43,"707,012",Unreliable,Asia,Southern Asia
+797,Santiago [DOM],Not available,9%,41%,"8,638",57,"706,173",Somewhat Reliable,Latin America and the Caribbean,Caribbean
+12601,Mojokerto [IDN],Not available,1%,7%,"9,182",31,"703,891",Unreliable,Asia,South-Eastern Asia
+2959,Palermo [ITA],71%,17%,48%,"12,184",44,"703,529",Somewhat Reliable,Europe,Southern Europe
+394,Cancun [MEX],Not available,14%,29%,"15,076",93,"703,188",Somewhat Reliable,Latin America and the Caribbean,Central America
+12145,Ganzhou [CHN],Not available,10%,34%,"26,196",20,"701,647",Very Unreliable,Asia,Eastern Asia
+5262,Zanzibar [TZA],Not available,55%,44%,"20,570",48,"698,661",Unreliable,Africa,Eastern Africa
+6458,Jamnagar [IND],Not available,4%,9%,"20,970",30,"697,431",Unreliable,Asia,Southern Asia
+2139,Abeokuta [NGA],Not available,0%,0%,"8,583",24,"695,718",Unreliable,Africa,Western Africa
+6704,Anand [IND],Not available,1%,0%,"21,000",33,"694,024",Unreliable,Asia,Southern Asia
+12513,Zhangzhou [CHN],Not available,5%,0%,"29,833",8,"693,675",Very Unreliable,Asia,Eastern Asia
+5190,Taif [SAU],Not available,2%,0%,"14,046",70,"693,624",Unreliable,Asia,Western Asia
+9047,Darbhanga [IND],Not available,0%,0%,"22,848",24,"692,683",Unreliable,Asia,Southern Asia
+5145,Nampula [MOZ],Not available,1%,17%,"21,853",38,"692,541",Unreliable,Africa,Eastern Africa
+1117,La Plata [ARG],Not available,15%,49%,"4,837",62,"691,902",Somewhat Reliable,Latin America and the Caribbean,South America
+4306,Krasnodar [RUS],Not available,36%,59%,"3,743",55,"691,472",Somewhat Reliable,Europe,Eastern Europe
+1286,Sorocaba [BRA],Not available,15%,14%,"9,451",61,"688,437",Somewhat Reliable,Latin America and the Caribbean,South America
+8557,Maunath Bhanjan [IND],Not available,1%,0%,"73,078",6,"688,273",Unreliable,Asia,Southern Asia
+3351,Lviv [UKR],Not available,70%,74%,"6,710",62,"687,060",Somewhat Reliable,Europe,Eastern Europe
+196,Albuquerque [USA],0%,15%,15%,"2,674",36,"685,934",Somewhat Reliable,Northern America,North America
+9474,Cuttack [IND],Not available,4%,12%,"22,042",28,"684,154",Unreliable,Asia,Southern Asia
+12095,Shuili [CHN],Not available,5%,7%,"17,802",13,"683,838",Very Unreliable,Asia,Eastern Asia
+116,Morelia [MEX],Not available,21%,23%,"11,998",105,"683,447",Somewhat Reliable,Latin America and the Caribbean,Central America
+9155,Raurkela [IND],Not available,6%,3%,"19,928",49,"682,818",Unreliable,Asia,Southern Asia
+400,New Orleans [USA],5%,7%,24%,"2,854",54,"680,994",Somewhat Reliable,Northern America,North America
+4140,Al Obeid (Al Ubayyid) [SDN],Not available,0%,0%,"19,287",135,"680,618",Unreliable,Africa,Northern Africa
+4800,Arusha [TZA],Not available,4%,11%,"25,994",15,"678,319",Unreliable,Africa,Eastern Africa
+237,Reynosa [MEX]; Hidalgo [USA],Not available,11%,8%,"9,109",83,"677,914",Somewhat Reliable,Latin America and the Caribbean,Central America
+11106,Fuxin [CHN],Not available,1%,0%,"9,276",9,"677,455",Very Unreliable,Asia,Eastern Asia
+11673,Can Tho [VNM],Not available,4%,40%,"13,632",29,"676,859",Unreliable,Asia,South-Eastern Asia
+11199,Luohe [CHN],Not available,5%,0%,"9,583",6,"676,710",Very Unreliable,Asia,Eastern Asia
+7248,Jalgaon [IND],Not available,1%,6%,"25,463",28,"676,313",Unreliable,Asia,Southern Asia
+625,Winnipeg [CAN],9%,42%,34%,"3,344",58,"675,489",Somewhat Reliable,Northern America,North America
+5639,Ta'izz [YEM],Not available,3%,50%,"48,947",44,"672,568",Unreliable,Asia,Western Asia
+8310,Handia [IND],Not available,0%,0%,"113,564",0,"672,497",Unreliable,Asia,Southern Asia
+8096,Balrampur [IND],Not available,0%,0%,"163,403",10,"668,220",Unreliable,Asia,Southern Asia
+11131,Xuchang [CHN],Not available,3%,0%,"14,818",5,"667,580",Very Unreliable,Asia,Eastern Asia
+9505,Raiganj [IND],Not available,0%,0%,"76,370",6,"667,206",Unreliable,Asia,Southern Asia
+3625,Kisangani [COD],Not available,5%,6%,"17,827",42,"666,843",Unreliable,Africa,Middle Africa
+3777,Bulawayo [ZWE],Not available,9%,19%,"22,524",47,"665,971",Unreliable,Africa,Eastern Africa
+7547,Akola [IND],Not available,1%,9%,"21,014",25,"664,649",Unreliable,Asia,Southern Asia
+3205,Krakow (Cracow) [POL],51%,68%,65%,"3,856",67,"664,581",Somewhat Reliable,Europe,Eastern Europe
+12524,Cheongju [KOR],Not available,25%,31%,"12,081",78,"664,464",Somewhat Reliable,Asia,Eastern Asia
+1643,Meknes [MAR],Not available,21%,44%,"18,378",128,"663,462",Unreliable,Africa,Northern Africa
+12395,Magelang [IDN],Not available,0%,21%,"8,821",26,"662,727",Unreliable,Asia,South-Eastern Asia
+12576,Jombang [IDN],Not available,1%,11%,"6,551",18,"661,778",Unreliable,Asia,South-Eastern Asia
+2722,Calabar [NGA],Not available,0%,0%,"66,187",31,"661,594",Unreliable,Africa,Western Africa
+18,Concord [USA],0%,22%,15%,"2,928",50,"661,554",Somewhat Reliable,Northern America,North America
+11368,Jiamusi [CHN],Not available,7%,0%,"12,021",31,"660,888",Very Unreliable,Asia,Eastern Asia
+7497,Pilibhit [IND],Not available,0%,0%,"90,122",11,"660,788",Unreliable,Asia,Southern Asia
+3032,Zagreb [HRV],45%,51%,59%,"4,023",52,"660,653",Somewhat Reliable,Europe,Southern Europe
+10471,Nanchong [CHN],Not available,13%,3%,"39,634",17,"659,817",Very Unreliable,Asia,Eastern Asia
+8706,Ballia [IND],Not available,2%,0%,"40,399",23,"659,108",Unreliable,Asia,Southern Asia
+2017,Toulouse [FRA],30%,53%,68%,"3,448",51,"658,107",Somewhat Reliable,Europe,Western Europe
+6353,Sargodha [PAK],Not available,2%,7%,"19,772",47,"657,394",Unreliable,Asia,Southern Asia
+7889,Nanpara [IND],Not available,0%,0%,"318,870",0,"654,290",Unreliable,Asia,Southern Asia
+7866,Banda [IND],Not available,1%,0%,"81,389",7,"654,246",Unreliable,Asia,Southern Asia
+957,Morocure [VEN],Not available,24%,43%,"30,044",66,"654,229",Somewhat Reliable,Latin America and the Caribbean,South America
+46,Fresno [USA],1%,7%,10%,"3,201",39,"652,856",Somewhat Reliable,Northern America,North America
+689,Cucuta [COL]; Urena [VEN],Not available,17%,53%,"14,685",98,"652,763",Somewhat Reliable,Latin America and the Caribbean,South America
+6654,Bhavnagar [IND],Not available,2%,0%,"21,532",65,"649,990",Unreliable,Asia,Southern Asia
+12073,Ma'anshan [CHN],Not available,10%,8%,"13,478",10,"648,976",Very Unreliable,Asia,Eastern Asia
+8462,Azamgarh [IND],Not available,1%,0%,"53,127",10,"647,473",Unreliable,Asia,Southern Asia
+4074,Bur Sa'id [EGY],Not available,5%,0%,"36,304",129,"646,209",Unreliable,Africa,Northern Africa
+7055,Hardwar [IND],Not available,3%,0%,"16,042",30,"646,076",Unreliable,Asia,Southern Asia
+11074,Ipoh [MYS],Not available,13%,11%,"5,099",81,"643,327",Unreliable,Asia,South-Eastern Asia
+5065,Asmara [ERI],Not available,9%,36%,"42,456",106,"643,257",Unreliable,Africa,Eastern Africa
+3614,Buram [SDN],Not available,0%,0%,"274,432",72,"642,447",Unreliable,Africa,Northern Africa
+10453,Yibin [CHN],Not available,3%,6%,"18,166",10,"641,585",Very Unreliable,Asia,Eastern Asia
+1281,Florianopolis [BRA],Not available,29%,55%,"9,367",54,"641,127",Somewhat Reliable,Latin America and the Caribbean,South America
+7518,Jhansi [IND],Not available,3%,17%,"27,012",15,"640,789",Unreliable,Asia,Southern Asia
+4200,Bunia [COD],Not available,6%,10%,"41,553",43,"639,359",Unreliable,Africa,Middle Africa
+8395,Bhadohi [IND],Not available,0%,0%,"59,869",6,"639,074",Unreliable,Asia,Southern Asia
+12668,Changwon [KOR],Not available,11%,40%,"9,399",59,"637,723",Somewhat Reliable,Asia,Eastern Asia
+6750,Patiala [IND],Not available,5%,5%,"13,566",55,"636,337",Unreliable,Asia,Southern Asia
+7473,Mainpuri [IND],Not available,0%,0%,"78,645",3,"635,868",Unreliable,Asia,Southern Asia
+12011,Zhaoqing [CHN],Not available,5%,6%,"16,374",15,"635,016",Very Unreliable,Asia,Eastern Asia
+9067,Bihar Sharif [IND],Not available,0%,2%,"90,732",6,"634,364",Unreliable,Asia,Southern Asia
+3995,Al-Qurayn [EGY],Not available,4%,4%,"10,705",32,"633,194",Unreliable,Africa,Northern Africa
+3615,Al-Fashir [SDN],Not available,0%,0%,"27,331",155,"632,597",Unreliable,Africa,Northern Africa
+1442,Natal [BRA],Not available,21%,60%,"13,987",75,"631,281",Somewhat Reliable,Latin America and the Caribbean,South America
+11891,Maoming [CHN],Not available,2%,0%,"23,784",12,"630,969",Very Unreliable,Asia,Eastern Asia
+12421,Jinhua [CHN],Not available,10%,8%,"12,374",9,"630,207",Very Unreliable,Asia,Eastern Asia
+10721,Chifeng [CHN],Not available,10%,7%,"14,043",21,"628,633",Very Unreliable,Asia,Eastern Asia
+3672,Evaton [ZAF],Not available,1%,0%,"9,747",41,"628,265",Unreliable,Africa,Southern Africa
+12571,Jeonju [KOR],Not available,32%,81%,"11,728",73,"628,108",Somewhat Reliable,Asia,Eastern Asia
+3141,Maroua [CMR],Not available,6%,77%,"29,084",55,"626,443",Unreliable,Africa,Middle Africa
+5250,Makhachkala [RUS],Not available,11%,49%,"7,550",41,"626,418",Somewhat Reliable,Europe,Eastern Europe
+9820,Jessor [BGD],Not available,5%,14%,"30,455",16,"626,334",Unreliable,Asia,Southern Asia
+542,Pereira [COL],Not available,51%,54%,"24,030",103,"625,416",Somewhat Reliable,Latin America and the Caribbean,South America
+7341,Rampur [IND],Not available,1%,8%,"46,180",9,"622,759",Unreliable,Asia,Southern Asia
+6447,Gujrat [PAK],Not available,1%,27%,"17,701",21,"622,644",Unreliable,Asia,Southern Asia
+221,Tampico [MEX],Not available,8%,17%,"9,953",84,"622,471",Somewhat Reliable,Latin America and the Caribbean,Central America
+3108,Mokolo [CMR],Not available,9%,16%,"242,578",32,"620,687",Unreliable,Africa,Middle Africa
+12256,Cilacap [IDN],Not available,3%,41%,"12,188",24,"620,239",Unreliable,Asia,South-Eastern Asia
+11411,Liaoyang [CHN],Not available,6%,1%,"10,823",10,"619,685",Very Unreliable,Asia,Eastern Asia
+7109,Dhule [IND],Not available,1%,0%,"23,496",14,"617,505",Unreliable,Asia,Southern Asia
+12531,Tulungagung [IDN],Not available,0%,1%,"5,041",12,"617,340",Unreliable,Asia,South-Eastern Asia
+11834,Cilegon [IDN],Not available,1%,23%,"8,556",39,"617,099",Unreliable,Asia,South-Eastern Asia
+349,Oklahoma City [USA],1%,13%,12%,"2,189",38,"616,999",Somewhat Reliable,Northern America,North America
+890,Buffalo [USA]; Fort Erie [CAN],4%,15%,20%,"2,570",33,"615,836",Somewhat Reliable,Northern America,North America
+12755,Balikpapan [IDN],Not available,3%,39%,"15,530",55,"614,895",Unreliable,Asia,South-Eastern Asia
+5971,Zahedan [IRN],Not available,34%,68%,"17,940",81,"614,275",Unreliable,Asia,Southern Asia
+6907,Yamunanagar [IND],Not available,5%,5%,"14,578",62,"612,394",Unreliable,Asia,Southern Asia
+7655,Davanagere [IND],Not available,8%,46%,"32,940",61,"610,124",Unreliable,Asia,Southern Asia
+4426,Hims (Homs) [SYR],Not available,12%,31%,"9,717",66,"609,170",Unreliable,Asia,Western Asia
+9590,Nawabganj [BGD],Not available,1%,0%,"15,403",6,"608,956",Unreliable,Asia,Southern Asia
+249,Tuxtla Gutierrez [MEX],Not available,10%,13%,"11,823",97,"608,351",Somewhat Reliable,Latin America and the Caribbean,Central America
+12732,Kota Kinabalu [MYS],Not available,10%,5%,"7,798",39,"608,027",Unreliable,Asia,South-Eastern Asia
+2674,Uyo [NGA],Not available,0%,0%,"54,656",21,"607,711",Unreliable,Africa,Western Africa
+7797,Malappuram [IND],Not available,2%,6%,"9,047",6,"607,384",Unreliable,Asia,Southern Asia
+3153,odz [POL],Not available,77%,75%,"4,385",86,"606,991",Somewhat Reliable,Europe,Eastern Europe
+11856,Weihai [CHN],Not available,13%,6%,"32,935",18,"606,932",Very Unreliable,Asia,Eastern Asia
+500,Sarasota-Bradenton [USA],0%,7%,5%,"1,703",37,"606,534",Somewhat Reliable,Northern America,North America
+7766,Sandila [IND],Not available,0%,0%,"244,225",25,"606,439",Unreliable,Asia,Southern Asia
+6056,Kandahar [AFG],Not available,2%,17%,"21,876",28,"605,626",Unreliable,Asia,Southern Asia
+12769,Kumamoto [JPN],Not available,26%,52%,"3,725",63,"605,471",Somewhat Reliable,Asia,Eastern Asia
+3619,Izmit [TUR],64%,16%,23%,"6,860",85,"605,162",Somewhat Reliable,Asia,Western Asia
+2317,Wuppertal [DEU],Not available,72%,67%,"2,908",48,"604,861",Somewhat Reliable,Europe,Western Europe
+12221,Chongjin [PRK],Not available,3%,0%,"13,634",28,"604,815",Very Unreliable,Asia,Eastern Asia
+1162,Londrina [BRA],Not available,18%,45%,"8,190",67,"604,380",Somewhat Reliable,Latin America and the Caribbean,South America
+8139,Tulsipur [IND],Not available,0%,0%,"338,516",5,"603,357",Unreliable,Asia,Southern Asia
+1771,Bristol [GBR],Not available,73%,84%,"4,813",64,"603,351",Somewhat Reliable,Europe,Northern Europe
+3060,Gdansk [POL],43%,69%,65%,"3,264",70,"603,020",Somewhat Reliable,Europe,Eastern Europe
+234,Nuevo Laredo [MEX]; Laredo [USA],Not available,10%,14%,"6,769",67,"601,848",Somewhat Reliable,Latin America and the Caribbean,Central America
+6816,Ambala [IND],Not available,1%,3%,"13,817",81,"601,495",Unreliable,Asia,Southern Asia
+9463,Siliguri [IND],Not available,1%,4%,"13,330",45,"601,281",Unreliable,Asia,Southern Asia
+1857,Nottingham [GBR],Not available,72%,82%,"4,240",59,"601,051",Somewhat Reliable,Europe,Northern Europe
+1118,Ciudad del Este [PRY]; Foz Do Iguacu [BRA],Not available,9%,68%,"7,069",58,"600,244",Somewhat Reliable,Latin America and the Caribbean,South America
+2523,Hannover [DEU],Not available,72%,66%,"2,698",63,"599,164",Somewhat Reliable,Europe,Western Europe
+4081,Al-Ismailiyah [EGY],Not available,11%,0%,"19,069",100,"599,110",Unreliable,Africa,Northern Africa
+5605,Hamadan [IRN],Not available,33%,30%,"14,323",83,"598,745",Unreliable,Asia,Southern Asia
+3913,Banha [EGY],Not available,5%,0%,"17,743",50,"594,814",Unreliable,Africa,Northern Africa
+1228,Uberlandia [BRA],Not available,11%,32%,"8,812",73,"594,597",Somewhat Reliable,Latin America and the Caribbean,South America
+7197,Ahmadnagar [IND],Not available,1%,10%,"16,872",63,"592,608",Unreliable,Asia,Southern Asia
+12275,Jiangyin [CHN],Not available,9%,2%,"32,723",6,"592,243",Very Unreliable,Asia,Eastern Asia
+2730,Nurenberg [DEU],Not available,68%,67%,"3,173",60,"591,935",Somewhat Reliable,Europe,Western Europe
+1009,Providence [USA],4%,12%,25%,"3,282",51,"591,001",Somewhat Reliable,Northern America,North America
+4910,Dahuk [IRQ],Not available,9%,57%,"12,187",96,"589,946",Unreliable,Asia,Western Asia
+84,Tucson [USA],5%,9%,14%,"2,705",42,"588,176",Somewhat Reliable,Northern America,North America
+12041,Qingyuan [CHN],Not available,9%,6%,"13,320",23,"587,780",Very Unreliable,Asia,Eastern Asia
+7796,Unnao [IND],Not available,0%,0%,"31,052",23,"586,966",Unreliable,Asia,Southern Asia
+2315,Tahoua [NER],Not available,13%,70%,"83,206",82,"585,729",Unreliable,Africa,Western Africa
+7819,Bellary [IND],Not available,3%,25%,"19,489",67,"585,396",Unreliable,Asia,Southern Asia
+1897,Bordeaux [FRA],Not available,47%,79%,"3,839",54,"585,031",Somewhat Reliable,Europe,Western Europe
+3670,Kryvyi Rih [UKR],Not available,17%,25%,"2,658",40,"584,156",Somewhat Reliable,Europe,Eastern Europe
+11940,Jiujiang [CHN],Not available,13%,30%,"17,974",13,"583,237",Very Unreliable,Asia,Eastern Asia
+11826,"Pingxiang, Jiangxi [CHN]",Not available,1%,1%,"17,461",7,"582,403",Very Unreliable,Asia,Eastern Asia
+7548,Kanhangad [IND],Not available,1%,10%,"8,165",6,"582,129",Unreliable,Asia,Southern Asia
+1048,Quebec [CAN],31%,32%,53%,"3,821",42,"581,981",Somewhat Reliable,Northern America,North America
+11788,Yantaiqian [CHN],Not available,10%,11%,"21,237",12,"581,941",Very Unreliable,Asia,Eastern Asia
+2191,Oyo [NGA],Not available,0%,0%,"25,969",29,"581,565",Unreliable,Africa,Western Africa
+3548,Kabkabiya [SDN],Not available,0%,0%,"167,066",148,"580,840",Unreliable,Africa,Northern Africa
+4000,Dumyat [EGY],Not available,1%,1%,"19,890",59,"580,472",Unreliable,Africa,Northern Africa
+9425,Darjiling [IND],Not available,50%,59%,"410,957",60,"579,528",Unreliable,Asia,Southern Asia
+7491,Etawah [IND],Not available,1%,0%,"27,397",5,"579,040",Unreliable,Asia,Southern Asia
+8821,Chhapra [IND],Not available,4%,0%,"95,670",11,"578,844",Unreliable,Asia,Southern Asia
+12972,Shizuoka-Hamamatsu M.M.A. [JPN],Not available,30%,82%,"4,760",104,"578,725",Somewhat Reliable,Asia,Eastern Asia
+11535,Fuyang [CHN],Not available,13%,8%,"12,942",11,"577,793",Very Unreliable,Asia,Eastern Asia
+9245,Itahari [NPL],Not available,20%,15%,"45,673",25,"577,638",Unreliable,Asia,Southern Asia
+10478,Zhangjiakou [CHN],Not available,5%,17%,"13,573",18,"577,497",Very Unreliable,Asia,Eastern Asia
+7376,Etah [IND],Not available,0%,0%,"77,228",5,"577,093",Unreliable,Asia,Southern Asia
+1257,Ribeirao  Preto [BRA],Not available,19%,24%,"10,958",76,"576,547",Somewhat Reliable,Latin America and the Caribbean,South America
+1141,Mar Del Plata [ARG],Not available,13%,44%,"5,669",81,"575,750",Somewhat Reliable,Latin America and the Caribbean,South America
+4393,Irbid [JOR],Not available,2%,10%,"6,880",51,"574,578",Unreliable,Asia,Western Asia
+5919,Kerman [IRN],Not available,22%,31%,"8,400",76,"574,206",Unreliable,Asia,Southern Asia
+3227,Huambo [AGO],Not available,2%,7%,"14,538",49,"574,072",Unreliable,Africa,Middle Africa
+93,Durango [MEX],Not available,13%,36%,"11,247",109,"573,878",Somewhat Reliable,Latin America and the Caribbean,Central America
+10782,Changzhi [CHN],Not available,7%,12%,"15,444",6,"573,666",Very Unreliable,Asia,Eastern Asia
+7145,Bulandshahr [IND],Not available,0%,0%,"38,413",7,"572,039",Unreliable,Asia,Southern Asia
+9866,Mymensingh [BGD],Not available,6%,19%,"17,584",11,"572,031",Unreliable,Asia,Southern Asia
+9933,Dayakanda [BGD],Not available,0%,0%,"5,687",15,"570,556",Unreliable,Asia,Southern Asia
+8638,Khampar [IND],Not available,0%,0%,"11,714",2,"569,782",Unreliable,Asia,Southern Asia
+9428,Katihar [IND],Not available,2%,2%,"90,321",20,"568,762",Unreliable,Asia,Southern Asia
+11620,Beihai [CHN],Not available,2%,3%,"17,468",8,"566,475",Very Unreliable,Asia,Eastern Asia
+442,Chiclayo [PER],Not available,33%,65%,"23,945",130,"566,289",Somewhat Reliable,Latin America and the Caribbean,South America
+2101,Porto Novo [BEN],Not available,20%,56%,"12,397",67,"565,466",Unreliable,Africa,Western Africa
+417,Omaha [USA],Not available,33%,26%,"2,178",39,"565,018",Somewhat Reliable,Northern America,North America
+6912,Panipat [IND],Not available,5%,1%,"8,492",75,"564,894",Unreliable,Asia,Southern Asia
+2775,Zinder [NER],Not available,9%,69%,"35,355",93,"564,389",Unreliable,Africa,Western Africa
+5580,Amara [IRQ],Not available,5%,61%,"22,338",85,"564,269",Unreliable,Asia,Western Asia
+4278,Mahagi [COD],Not available,0%,0%,"348,624",23,"564,103",Unreliable,Africa,Middle Africa
+12199,Kuningan [IDN],Not available,1%,6%,"10,479",23,"561,840",Unreliable,Asia,South-Eastern Asia
+11007,Cangzhou [CHN],Not available,2%,1%,"8,750",11,"560,962",Very Unreliable,Asia,Eastern Asia
+5611,Rasht [IRN],Not available,9%,33%,"9,743",53,"560,801",Unreliable,Asia,Southern Asia
+3658,Ad-Duayn [SDN],Not available,0%,0%,"44,091",125,"560,073",Unreliable,Africa,Northern Africa
+9756,Jaynagarmazilpur [IND],Not available,0%,0%,"9,958",9,"560,029",Unreliable,Asia,Southern Asia
+4412,Al-Manaqil [SDN],Not available,0%,0%,"85,359",89,"558,879",Unreliable,Africa,Northern Africa
+5538,Al-Hudaydah [YEM],Not available,3%,63%,"28,995",70,"558,661",Unreliable,Asia,Western Asia
+7670,Golagokarannath [IND],Not available,0%,0%,"138,778",0,"558,430",Unreliable,Asia,Southern Asia
+8309,Dindigul [IND],Not available,1%,5%,"47,510",30,"558,396",Unreliable,Asia,Southern Asia
+11544,Zaozhuang [CHN],Not available,1%,1%,"8,335",10,"558,134",Very Unreliable,Asia,Eastern Asia
+2377,Qacentina [DZA],Not available,10%,44%,"9,772",48,"557,446",Unreliable,Africa,Northern Africa
+8598,Ghazipur [IND],Not available,1%,0%,"59,024",7,"556,750",Unreliable,Asia,Southern Asia
+6744,Ajmer [IND],Not available,1%,0%,"13,294",103,"556,677",Unreliable,Asia,Southern Asia
+3269,Riga [LVA],Not available,66%,67%,"3,364",77,"556,672",Somewhat Reliable,Europe,Northern Europe
+11504,Shaoyang [CHN],Not available,1%,0%,"20,888",7,"556,217",Very Unreliable,Asia,Eastern Asia
+12772,Dagupan [PHL],Not available,5%,16%,"10,399",14,"556,171",Unreliable,Asia,South-Eastern Asia
+2853,Bauchi [NGA],Not available,0%,1%,"12,705",24,"555,594",Unreliable,Africa,Western Africa
+9272,Giridih [IND],Not available,0%,0%,"87,856",19,"554,872",Unreliable,Asia,Southern Asia
+6080,Namangan [UZB],Not available,1%,11%,"3,517",14,"554,185",Unreliable,Asia,Central Asia
+12306,Huiyang [CHN],Not available,0%,0%,"7,042",7,"553,943",Very Unreliable,Asia,Eastern Asia
+4761,Izhevsk [RUS],Not available,52%,58%,"3,922",56,"553,845",Somewhat Reliable,Europe,Eastern Europe
+3002,Cabinda [AGO],Not available,0%,10%,"18,198",30,"553,769",Unreliable,Africa,Middle Africa
+218,Xalapa [MEX],Not available,29%,68%,"13,610",80,"551,950",Somewhat Reliable,Latin America and the Caribbean,Central America
+4702,Port Sudan (Bur Sudan) [SDN],Not available,2%,14%,"22,818",141,"551,714",Unreliable,Africa,Northern Africa
+10614,Linfen [CHN],Not available,6%,2%,"19,348",4,"551,541",Very Unreliable,Asia,Eastern Asia
+2837,Safaqis [TUN],Not available,3%,66%,"4,898",37,"551,106",Unreliable,Africa,Northern Africa
+7510,Bijapur [IND],Not available,4%,22%,"26,706",27,"549,613",Unreliable,Asia,Southern Asia
+4464,Wad Medani [SDN],Not available,1%,0%,"17,718",106,"549,310",Unreliable,Africa,Northern Africa
+11764,Rizhao [CHN],Not available,2%,0%,"4,919",7,"549,263",Very Unreliable,Asia,Eastern Asia
+9006,Kandy [LKA],Not available,8%,9%,"7,630",8,"548,245",Unreliable,Asia,Southern Asia
+12000,Anqing [CHN],Not available,3%,2%,"19,674",8,"548,115",Very Unreliable,Asia,Eastern Asia
+11090,Puyang [CHN],Not available,4%,7%,"9,472",12,"547,268",Very Unreliable,Asia,Eastern Asia
+3434,Tshikapa [COD],Not available,0%,0%,"26,704",79,"546,808",Unreliable,Africa,Middle Africa
+12251,Vladivostok [RUS],Not available,73%,67%,"4,732",120,"545,902",Somewhat Reliable,Europe,Eastern Europe
+5960,Port Louis [MUS],Not available,3%,47%,"7,553",44,"545,315",Unreliable,Africa,Eastern Africa
+8520,Amloricolliery [IND],Not available,3%,0%,"20,589",33,"545,037",Unreliable,Asia,Southern Asia
+3811,Kitwe [ZMB],Not available,9%,2%,"11,850",42,"544,657",Unreliable,Africa,Eastern Africa
+202,Oaxaca de Juarez [MEX],Not available,10%,16%,"9,113",75,"543,522",Somewhat Reliable,Latin America and the Caribbean,Central America
+2535,Genova (Genoa) [ITA],84%,84%,91%,"11,986",74,"542,961",Somewhat Reliable,Europe,Southern Europe
+5337,Al Jadidah [IRQ],Not available,0%,0%,"62,499",35,"542,358",Unreliable,Asia,Western Asia
+972,Bridgeport-Stamford [USA],7%,21%,37%,"3,629",35,"541,499",Somewhat Reliable,Northern America,North America
+1214,Novo Hamburgo [BRA],Not available,9%,32%,"6,663",60,"540,933",Somewhat Reliable,Latin America and the Caribbean,South America
+5066,Astrakhan [RUS],Not available,12%,36%,"3,854",46,"540,521",Somewhat Reliable,Europe,Eastern Europe
+11769,My Tho [VNM],Not available,5%,6%,"12,023",14,"540,518",Unreliable,Asia,South-Eastern Asia
+12951,Bacolod [PHL],Not available,7%,36%,"20,420",86,"539,696",Unreliable,Asia,South-Eastern Asia
+575,Ibague [COL],Not available,45%,83%,"46,160",130,"538,830",Somewhat Reliable,Latin America and the Caribbean,South America
+10041,Silchar [IND],Not available,0%,13%,"18,557",10,"538,514",Unreliable,Asia,Southern Asia
+8008,Bhinga [IND],Not available,0%,0%,"588,118",3,"537,635",Unreliable,Asia,Southern Asia
+3623,Denizli [TUR],Not available,23%,44%,"9,291",109,"537,507",Somewhat Reliable,Asia,Western Asia
+4599,Diyarbakir [TUR],Not available,28%,65%,"17,618",85,"536,794",Somewhat Reliable,Asia,Western Asia
+2834,Libreville [GAB],Not available,2%,27%,"9,416",18,"536,506",Unreliable,Africa,Middle Africa
+11838,Lianyungang [CHN],Not available,2%,0%,"19,966",7,"536,014",Very Unreliable,Asia,Eastern Asia
+12869,Kanazawa [JPN],Not available,37%,63%,"3,926",96,"535,787",Somewhat Reliable,Asia,Eastern Asia
+8911,Sitamarhi [IND],Not available,2%,0%,"48,359",17,"534,900",Unreliable,Asia,Southern Asia
+10424,Zigong [CHN],Not available,10%,11%,"15,010",9,"533,623",Very Unreliable,Asia,Eastern Asia
+29,Bakersfield [USA],0%,7%,6%,"3,108",25,"533,318",Somewhat Reliable,Northern America,North America
+11051,Dezhou [CHN],Not available,3%,0%,"7,608",4,"532,921",Very Unreliable,Asia,Eastern Asia
+914,Concepcion [CHL],Not available,34%,56%,"6,921",97,"532,052",Somewhat Reliable,Latin America and the Caribbean,South America
+2312,Akure [NGA],Not available,1%,0%,"7,475",30,"530,933",Unreliable,Africa,Western Africa
+3031,Wrocaw [POL],64%,84%,73%,"4,198",81,"529,209",Somewhat Reliable,Europe,Eastern Europe
+6019,Tomsk [RUS],Not available,47%,65%,"3,933",54,"529,132",Somewhat Reliable,Europe,Eastern Europe
+5362,Al Hindiyah [IRQ],Not available,1%,13%,"43,746",51,"528,710",Unreliable,Asia,Western Asia
+3661,Eskisehir [TUR],Not available,21%,45%,"6,729",112,"528,380",Somewhat Reliable,Asia,Western Asia
+7158,Ujjain [IND],Not available,0%,0%,"18,804",26,"528,214",Unreliable,Asia,Southern Asia
+8505,Tirupati [IND],Not available,5%,20%,"22,000",60,"528,126",Unreliable,Asia,Southern Asia
+3012,Poznan [POL],33%,70%,68%,"3,219",62,"527,670",Somewhat Reliable,Europe,Eastern Europe
+10926,Tongliao [CHN],Not available,6%,0%,"11,505",8,"527,049",Very Unreliable,Asia,Eastern Asia
+11279,Hegang [CHN],Not available,2%,2%,"12,185",14,"526,931",Very Unreliable,Asia,Eastern Asia
+3739,Yaroslavl [RUS],Not available,38%,49%,"3,105",53,"526,683",Somewhat Reliable,Europe,Eastern Europe
+10590,Dazhou [CHN],Not available,23%,0%,"94,201",19,"525,962",Very Unreliable,Asia,Eastern Asia
+10861,Shiyan [CHN],Not available,1%,0%,"13,977",6,"525,870",Very Unreliable,Asia,Eastern Asia
+10463,"Xianyang, Shaanxi [CHN]",Not available,2%,0%,"10,750",6,"525,411",Very Unreliable,Asia,Eastern Asia
+951,Maturin [VEN],Not available,6%,36%,"14,056",53,"522,461",Somewhat Reliable,Latin America and the Caribbean,South America
+11295,Panjin [CHN],Not available,2%,0%,"19,774",3,"522,321",Very Unreliable,Asia,Eastern Asia
+6302,Wah [PAK],Not available,4%,14%,"15,449",46,"521,616",Unreliable,Asia,Southern Asia
+4668,Tolyatti [RUS],Not available,36%,37%,"4,140",65,"520,774",Somewhat Reliable,Europe,Eastern Europe
+5878,Yazd [IRN],Not available,11%,39%,"7,157",63,"520,637",Unreliable,Asia,Southern Asia
+12666,Sumenep [IDN],Not available,1%,0%,"32,309",21,"520,291",Unreliable,Asia,South-Eastern Asia
+10536,Luzhou [CHN],Not available,5%,1%,"35,003",11,"519,825",Very Unreliable,Asia,Eastern Asia
+12056,Zhujiang [CHN],Not available,5%,4%,"12,314",9,"519,778",Very Unreliable,Asia,Eastern Asia
+1411,Feira De Santana [BRA],Not available,11%,28%,"12,871",80,"519,584",Somewhat Reliable,Latin America and the Caribbean,South America
+1642,Bouake [CIV],Not available,14%,87%,"10,208",49,"519,440",Unreliable,Africa,Western Africa
+9345,Brahmapur [IND],Not available,11%,8%,"33,992",40,"519,351",Unreliable,Asia,Southern Asia
+7483,Bhind [IND],Not available,0%,0%,"54,762",12,"518,128",Unreliable,Asia,Southern Asia
