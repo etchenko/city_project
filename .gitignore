@@ -1,0 +1,8 @@
+# Ignore MAc system files
+.DS_store
+
+# Ignore jupyter notebook files
+.ipynb_checkpoints
+
+# Ignore Rhistory
+.Rhistory
